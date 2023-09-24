@@ -1,0 +1,101 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "width": 450,
+  "height": 1000,
+
+  "title": {
+    "text": "Average Tariff Rates by Country and Year",
+    "anchor": "middle",
+    "fontSize": 16,
+    "frame": "group",
+    "offset": 10
+  },
+
+  "data": [
+    {
+      "name": "tariffData",
+      "url": "data/heatmap_data.csv",
+      "format": {
+        "type": "csv",
+        "parse": {
+          "AHS_Simple_Average": "number",
+          "Year": "number" 
+        }
+      }
+    }
+  ],
+
+  "scales": [
+    {
+      "name": "x",
+      "type": "band", 
+      "domain": {"data": "tariffData", "field": "Year"},
+      "range": "width"
+    },
+    {
+      "name": "y",
+      "type": "band",
+      "domain": {"data": "tariffData", "field": "Country"},
+      "range": "height"
+    },
+    {
+      "name": "color",
+      "type": "quantile",
+      "range": {"scheme": "blues"}, 
+      "domain": {"data": "tariffData", "field": "AHS_Simple_Average"}
+    }
+  ],
+
+  "axes": [
+    {
+      "orient": "bottom",
+      "scale": "x",
+      "domain": false,
+      "title": "Year",
+      "labelOverlap": "parity", 
+      "tickCount": {"signal": "ceil(width/40)"}
+    },
+    {
+      "orient": "left",
+      "scale": "y",
+      "domain": false,
+      "title": "Country"
+    }
+  ],
+
+  "legends": [
+    {
+      "fill": "color",
+      "type": "symbol",
+      "title": "Average Tariff Rate",
+      "direction": "horizontal",
+      "orient": "top",
+      "titleFontSize": 12,
+      "titlePadding": 3,
+      "gradientLength": {"signal": "width"}
+    }
+  ],
+
+  "marks": [
+    {
+      "type": "rect",
+      "from": {"data": "tariffData"},
+      "encode": {
+        "enter": {
+          "x": {"scale": "x", "field": "Year"},
+          "y": {"scale": "y", "field": "Country"},
+          "width": {"value": 15},
+          "height": {"scale": "y", "band": 1},
+          "tooltip": [
+            {"signal": "{\"Country\": datum.Country, \"Year\": datum.Year, \"Average Tariff Rate\": format(datum.AHS_Simple_Average, ',.2f')}"}
+          ],
+          "stroke": {"value": "white"},
+          "strokeWidth": {"value": 1}
+        },
+        "update": {
+          "fill": {"scale": "color", "field": "AHS_Simple_Average"}
+        }
+      }
+    }
+  ]
+}

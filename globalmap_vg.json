@@ -1,0 +1,139 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": {
+      "text": "Imports, Exports, and Total Trade (1988 - 2021)",
+      "fontSize": 16
+    },
+    "width": 800,
+    "height": 500,
+    "data": {
+      "url": "data/globalmap.csv"
+    },
+    "params": [
+      {
+        "name": "year_selection",
+        "value": 2021,
+        "bind": {
+          "input": "range",
+          "min": 1988,
+          "max": 2021,
+          "step": 1,
+          "name": "Year Selection: "
+        }
+      },
+      {
+        "name": "trade_activity",
+        "value": "Total",
+        "bind": {
+          "input": "select",
+          "options": ["Total", "Export", "Import"],
+          "name": "Trade Activity: "
+        }
+      }
+    ],
+    "layer": [
+      {
+        "data": {
+          "url": "ne_100m_ocean.json",
+          "format": {"type": "topojson", "feature": "oceans"}
+        },
+        "mark": {"type": "geoshape", "fill": "aliceblue"}
+      },
+      {
+        "data": {
+          "url": "ne_110m_graticules_30.json",
+          "format": {"type": "topojson", "feature": "ne_110m_graticules_30"}
+        },
+        "mark": {"type": "geoshape", "fill": "", "stroke": "silver"}
+      },
+      {
+        "data": {
+          "url": "ne_110m_admin_0_countries.json",
+          "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+        },
+        "mark": {"type": "geoshape", "fill": "darkgrey", "stroke": "white"}
+      },
+      {
+        "data": {
+                "url": "ne_110m_admin_0_countries.json",
+                "format": {
+                  "type": "topojson",
+                  "feature": "ne_110m_admin_0_countries"
+                }
+              },
+              "transform":[
+          {
+            "calculate": "'Not available in ' + datum.properties.NAME", "as": "N/A"
+          }
+        ],
+        "mark":{
+          "type": "geoshape",
+          "fill": "lightgrey",
+          "stroke": "white"
+        },
+        "encoding": {
+          "tooltip":[
+            {
+              "field": "N/A",
+              "type": "nominal"
+            }
+          ]
+        }
+      },
+      {
+        "projection": {"type": "equalEarth"},
+        "transform": [
+          {
+            "lookup": "Country",
+            "from": {
+              "data": {
+                "url": "ne_110m_admin_0_countries.json",
+                "format": {
+                  "type": "topojson",
+                  "feature": "ne_110m_admin_0_countries"
+                }
+              },
+              "key": "properties.NAME"
+            },
+            "as": "geo"
+          },
+          {"filter": "datum.Year == year_selection"},
+          {
+            "calculate": "datum[trade_activity]",
+            "as": "Selected Trade Activity"
+          },
+          {
+            "bin": {"step": 10, "extent": [0, 100000000]},
+            "field": "Selected Trade Activity",
+            "as": "magnitude"
+          }
+        ],
+        "mark": {"type": "geoshape", "stroke": "white"},
+        "encoding": {
+          "shape": {"field": "geo", "type": "geojson"},
+          "color": {
+            "field": "magnitude",
+            "type": "quantitative",
+            "scale": {"type": "quantize", "scheme": "tealblues"},
+            "legend": {
+              "title": "Selected Trade Activity (in millions)",
+              "titleLimit": 320,
+              "titleFontSize": 13,
+              "direction": "horizontal",
+              "orient": "bottom"
+            }
+          },
+          "tooltip": [
+            {"field": "Country", "type": "nominal", "title": "Country"},
+            {
+              "field": "Selected Trade Activity",
+              "type": "quantitative",
+              "title": "Trade Amount (in millions)",
+              "format": ",.2f"
+            }
+          ]
+        }
+      }
+    ]
+  }
+  
