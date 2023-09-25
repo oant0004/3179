@@ -1,44 +1,51 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 450,
-    "height": 450,
-    "title": {
-        "text": "Country Growth for Imports and Exports",
-        "anchor": "middle",
-        "fontSize": 16,
-        "frame": "group",
-        "offset": 10
-    },
-    "data": {"url": "data/countrygrowth.csv"},
-    "transform": [
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 450,
+  "height": 450,
+  "title": {
+      "text": "Country Growth for Imports and Exports",
+      "anchor": "middle",
+      "fontSize": 16,
+      "frame": "group",
+      "offset": 10
+  },
+  "data": {"url": "data/countrygrowth.csv"},
+  "transform": [
       {
-          "filter": "datum.Country === CountryFilter"
+          "filter": "AllCountriesFilter === 'Show All' || datum.Country === AllCountriesFilter"
       },
       {
           "filter": {
               "field": "Country",
-              "oneOf": ["Australia", "Lebanon", "Mauritania", "Tuvalu", "Zimbabwe", "Burundi", "Greece"]
+              "oneOf": ["Australia", "Lebanon", "Zimbabwe", "Burundi", "Greece"]
           }
       }
-  ],  
-    "params": [
+  ],
+  "params": [
       {
-        "name": "CountryFilter",
-        "value": "Australia",
-        "bind": {
-          "input": "select",
-          "options": ["Australia", "Lebanon", "Mauritania", "Tuvalu", "Zimbabwe", "Burundi", "Greece"],
-          "name": "Country "
-        }
+          "name": "AllCountriesFilter",
+          "value": "Show All",
+          "bind": {
+              "input": "select",
+              "options": ["Show All", "Australia", "Lebanon", "Zimbabwe", "Burundi", "Greece"],
+              "name": "Country "
+          }
       }
-    ],
-    "mark": {
+  ],
+  "mark": {
       "type": "line",
       "point": true
-    },
-    "encoding": {
+  },
+  "encoding": {
       "x": {"field": "Year", "type": "temporal"},
       "y": {"field": "Country_growth", "type": "quantitative"},
-      "color": {"field": "Country", "type": "nominal"}
-    }
+      "color": {
+          "field": "Country",
+          "type": "nominal",
+          "scale": {
+              "domain": ["Australia", "Lebanon", "Zimbabwe", "Burundi", "Greece"],
+              "range": ["#08306b", "#808080", "#8c6d31", "#6e9abf", "#FFD700"]
+          }
+      }
+  }
 }
