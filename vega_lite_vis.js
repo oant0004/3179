@@ -3,12 +3,14 @@ vegaEmbed("#heat_map", vg_1).then(function(result) {
     // Access the Vega view instance as result.view
 }).catch(console.error);
 
-var vg_2 = "globalmap_vg.json";
+var vg_2 = "js/globalmap_vg.json";
 vegaEmbed("#global_map", vg_2).then(function(result) {
     // Access the Vega view instance as result.view
 }).catch(console.error);
 
-var vg_dotplot = "dotplot_vg.json";
-vegaEmbed("#dot_plot", vg_dotplot).then(function(result) {
+var vg_3 = "js/linechart_vg.json";
+vegaEmbed("#line_chart", vg_3).then(function(result) {
     // Access the Vega view instance as result.view
 }).catch(console.error);
+
+
