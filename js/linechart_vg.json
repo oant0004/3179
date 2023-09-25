@@ -34,7 +34,8 @@
   ],
   "mark": {
       "type": "line",
-      "point": true
+      "point": true,
+      "tooltip": true  
   },
   "encoding": {
       "x": {"field": "Year", "type": "temporal"},
@@ -46,6 +47,11 @@
               "domain": ["Australia", "Lebanon", "Zimbabwe", "Burundi", "Greece"],
               "range": ["#08306b", "#808080", "#8c6d31", "#6e9abf", "#FFD700"]
           }
-      }
+      },
+      "tooltip": [   
+          {"field": "Country", "type": "nominal", "title": "Country"},
+          {"field": "Year", "type": "temporal", "title": "Year", "format": "%Y"},
+          {"field": "Country_growth", "type": "quantitative", "title": "Growth"}
+      ]
   }
 }
