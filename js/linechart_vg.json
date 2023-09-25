@@ -3,103 +3,114 @@
     "width": 450,
     "height": 1000,
     "title": {
-      "text": "Country Growth per Year",
-      "anchor": "middle",
-      "fontSize": 16,
-      "frame": "group",
-      "offset": 10
+        "text": "Country Growth per Year",
+        "anchor": "middle",
+        "fontSize": 16,
+        "frame": "group",
+        "offset": 10
     },
-    "data": {
-      "name": "countryGrowthData",
-      "url": "data/Countrygrowth.csv",
-      "format": {
-        "type": "csv",
-        "parse": {
-          "Year": "number",
-          "Country_growth": "number"
+    "data": [
+        {
+            "name": "countryGrowthData",
+            "url": "data/Countrygrowth.csv",
+            "format": {
+                "type": "csv",
+                "parse": {
+                    "Year": "number",
+                    "Country_growth": "number"
+                }
+            }
         }
-      }
-    },
+    ],
     "transform": [
-      {"filter": "datum.Year >= 1989"},
-      {"filter": "datum.Country === 'Australia'"},
-      {"filter": "datum.Country === 'United Kingdom'"},
-      {"filter": "datum.Country === 'United States'"},
-      {"filter": "datum.Country === 'Japan'"},
-      {"filter": "datum.Country === 'Italy'"},
-      {"filter": "datum.Country === 'China'"},
-      {"filter": "datum.Country === 'Indonesia'"},
-      {"filter": "datum.Country === 'Spain'"},
-      {"filter": "datum.Country === 'Afghanistan'"},
-      {"filter": "datum.Country === 'Lebanon'"},
-      {"filter": "datum.Country === 'Mauritania'"},
-      {"filter": "datum.Country === 'Tuvalu'"},
-      {"filter": "datum.Country === 'Zimbabwe'"},
-      {"filter": "datum.Country === 'Burundi'"},
-      {"filter": "datum.Country === 'Greece'"}
+        {
+            "filter": "datum.Year >= 1989"
+        },
+        {
+            "filter": {
+                "field": "Country",
+                "oneOf": [
+                    "Australia",
+                    "United Kingdom",
+                    "United States",
+                    "Japan",
+                    "Italy",
+                    "China",
+                    "Indonesia",
+                    "Spain",
+                    "Afghanistan",
+                    "Lebanon",
+                    "Mauritania",
+                    "Tuvalu",
+                    "Zimbabwe",
+                    "Burundi",
+                    "Greece"
+                ]
+            }
+        }
     ],
     "scales": [
-      {
-        "name": "x",
-        "type": "linear",
-        "domain": {"data": "countryGrowthData", "field": "Year"},
-        "range": "width"
-      },
-      {
-        "name": "y",
-        "type": "linear",
-        "domain": [5, 13], 
-        "range": "height"
-      },
-      {
-        "name": "color",
-        "type": "ordinal",
-        "domain": {"data": "countryGrowthData", "field": "Country"},
-        "range": {"scheme": "category10"}
-      }
+        {
+            "name": "x",
+            "type": "linear",
+            "domain": {"data": "countryGrowthData", "field": "Year"},
+            "range": "width"
+        },
+        {
+            "name": "y",
+            "type": "linear",
+            "domain": [5, 13],
+            "range": "height"
+        },
+        {
+            "name": "color",
+            "type": "ordinal",
+            "domain": {"data": "countryGrowthData", "field": "Country"},
+            "range": {"scheme": "category10"}
+        }
     ],
     "axes": [
-      {
-        "orient": "bottom",
-        "scale": "x",
-        "title": "Year"
-      },
-      {
-        "orient": "left",
-        "scale": "y",
-        "title": "Country Growth"
-      }
+        {
+            "orient": "bottom",
+            "scale": "x",
+            "title": "Year"
+        },
+        {
+            "orient": "left",
+            "scale": "y",
+            "title": "Country Growth"
+        }
     ],
     "legends": [
-      {
-        "fill": "color",
-        "type": "symbol",
-        "title": "Country",
-        "direction": "horizontal",
-        "orient": "top"
-      }
+        {
+            "fill": "color",
+            "type": "symbol",
+            "title": "Country",
+            "direction": "horizontal",
+            "orient": "top"
+        }
     ],
     "marks": [
-      {
-        "type": "line",
-        "from": {"data": "countryGrowthData"},
-        "encode": {
-          "enter": {
-            "x": {"scale": "x", "field": "Year"},
-            "y": {"scale": "y", "field": "Country_growth"},
-            "stroke": {"scale": "color", "field": "Country"},
-            "strokeWidth": {"value": 2},
-            "tooltip": [
-              {"field": "Country", "type": "nominal"},
-              {"field": "Year", "type": "temporal"},
-              {
-                "field": "Country_growth",
-                "type": "quantitative",
-                "format": ","
-              }
-            ]
-          }
+        {
+            "type": "line",
+            "from": {"data": "countryGrowthData"},
+            "encode": {
+                "enter": {
+                    "x": {"scale": "x", "field": "Year"},
+                    "y": {"scale": "y", "field": "Country_growth"},
+                    "stroke": {"scale": "color", "field": "Country"},
+                    "strokeWidth": {"value": 2},
+                    "tooltip": [
+                        {"field": "Country", "type": "nominal"},
+                        {"field": "Year", "type": "temporal"},
+                        {
+                            "field": "Country_growth",
+                            "type": "quantitative",
+                            "format": ","
+                        }
+                    ]
+                }
+            }
         }
-      }
     ]
 }
