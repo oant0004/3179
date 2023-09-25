@@ -12,9 +12,23 @@
     "data": {"url": "data/countrygrowth.csv"},
     "transform": [
       {
-        "filter": {
-          "field": "Country",
-          "oneOf": ["Australia", "Lebanon", "Mauritania", "Tuvalu", "Zimbabwe", "Burundi", "Greece"]
+          "filter": "datum.Country === CountryFilter"
+      },
+      {
+          "filter": {
+              "field": "Country",
+              "oneOf": ["Australia", "Lebanon", "Mauritania", "Tuvalu", "Zimbabwe", "Burundi", "Greece"]
+          }
+      }
+  ],  
+    "params": [
+      {
+        "name": "CountryFilter",
+        "value": "Australia",
+        "bind": {
+          "input": "select",
+          "options": ["Australia", "Lebanon", "Mauritania", "Tuvalu", "Zimbabwe", "Burundi", "Greece"],
+          "name": "Country "
         }
       }
     ],
