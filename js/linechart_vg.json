@@ -1,116 +1,30 @@
 {
-    "$schema": "https://vega.github.io/schema/vega/v5.json",
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "width": 450,
-    "height": 1000,
+    "height": 450,
     "title": {
-        "text": "Country Growth per Year",
+        "text": "Country Growth for Imports and Exports",
         "anchor": "middle",
         "fontSize": 16,
         "frame": "group",
         "offset": 10
     },
-    "data": [
-        {
-            "name": "countryGrowthData",
-            "url": "data/Countrygrowth.csv",
-            "format": {
-                "type": "csv",
-                "parse": {
-                    "Year": "number",
-                    "Country_growth": "number"
-                }
-            }
-        }
-    ],
+    "data": {"url": "data/countrygrowth.csv"},
     "transform": [
-        {
-            "filter": "datum.Year >= 1989"
-        },
-        {
-            "filter": {
-                "field": "Country",
-                "oneOf": [
-                    "Australia",
-                    "United Kingdom",
-                    "United States",
-                    "Japan",
-                    "Italy",
-                    "China",
-                    "Indonesia",
-                    "Spain",
-                    "Afghanistan",
-                    "Lebanon",
-                    "Mauritania",
-                    "Tuvalu",
-                    "Zimbabwe",
-                    "Burundi",
-                    "Greece"
-                ]
-            }
+      {
+        "filter": {
+          "field": "Country",
+          "oneOf": ["Australia", "Lebanon", "Mauritania", "Tuvalu", "Zimbabwe", "Burundi", "Greece"]
         }
+      }
     ],
-    "scales": [
-        {
-            "name": "x",
-            "type": "linear",
-            "domain": {"data": "countryGrowthData", "field": "Year"},
-            "range": "width"
-        },
-        {
-            "name": "y",
-            "type": "linear",
-            "domain": [5, 13],
-            "range": "height"
-        },
-        {
-            "name": "color",
-            "type": "ordinal",
-            "domain": {"data": "countryGrowthData", "field": "Country"},
-            "range": {"scheme": "category10"}
-        }
-    ],
-    "axes": [
-        {
-            "orient": "bottom",
-            "scale": "x",
-            "title": "Year"
-        },
-        {
-            "orient": "left",
-            "scale": "y",
-            "title": "Country Growth"
-        }
-    ],
-    "legends": [
-        {
-            "fill": "color",
-            "type": "symbol",
-            "title": "Country",
-            "direction": "horizontal",
-            "orient": "top"
-        }
-    ],
-    "marks": [
-        {
-            "type": "line",
-            "from": {"data": "countryGrowthData"},
-            "encode": {
-                "enter": {
-                    "x": {"scale": "x", "field": "Year"},
-                    "y": {"scale": "y", "field": "Country_growth"},
-                    "stroke": {"scale": "color", "field": "Country"},
-                    "strokeWidth": {"value": 2},
-                    "tooltip": [
-                        {"field": "Country", "type": "nominal"},
-                        {"field": "Year", "type": "temporal"},
-                        {
-                            "field": "Country_growth",
-                            "type": "quantitative",
-                            "format": ","
-                        }
-                    ]
-                }
-            }
-        }
-    ]
+    "mark": {
+      "type": "line",
+      "point": true
+    },
+    "encoding": {
+      "x": {"field": "Year", "type": "temporal"},
+      "y": {"field": "Country_growth", "type": "quantitative"},
+      "color": {"field": "Country", "type": "nominal"}
+    }
 }
