@@ -14,7 +14,9 @@
                 "oneOf": ["Australia", "United States", "India", "United Kingdom", "China"]
             }
         },
-        {"filter": "isValid(datum['MFN_SimpleAverage'])"},
+        {
+            "filter": "isValid(datum['MFN_SimpleAverage']) && isValid(datum['MFN_WeightedAverage']) && isValid(datum['MFN_Total_Tariff']) && isValid(datum['MFN_SpecificTariff'])"
+        },
         {"window": [{"op": "count", "as": "index"}]},
         {"fold": ["MFN_SimpleAverage", "MFN_WeightedAverage", "MFN_Total_Tariff", "MFN_SpecificTariff"]},
         {
@@ -25,14 +27,14 @@
             "groupby": ["key"]
         },
         {
-            "calculate": "datum.max === datum.min ? 0 : (datum.value - datum.min) / (datum.max-datum.min)",
+            "calculate": "datum.max === datum.min ? 0.5 : (datum.value - datum.min) / (datum.max-datum.min)",
             "as": "norm_val"
         },
         {
             "calculate": "(datum.min + datum.max) / 2",
             "as": "mid"
         }
-    ],
+    ],    
     "layer": [
         {
             "mark": {"type": "rule", "color": "#ccc"},
@@ -74,21 +76,21 @@
                 ]
             }
         },
-        {"encoding": {"x": {"type": "nominal", "field": "key"}, "y": {"value": 0}},
-            "layer": [{"mark": {"type": "text", "style": "label"},
-                        "encoding": {"text": {"aggregate": "max", "field": "max"}}},
-                      {"mark": {"type": "tick", "style": "tick", "size": 8, "color": "#ccc"}}]
-        },
-        {"encoding": {"x": {"type": "nominal", "field": "key"}, "y": {"value": 150}},
-            "layer": [{"mark": {"type": "text", "style": "label"},
-                        "encoding": {"text": {"aggregate": "min", "field": "mid"}}},
-                      {"mark": {"type": "tick", "style": "tick", "size": 8, "color": "#ccc"}}]
-        },
-        {"encoding": {"x": {"type": "nominal", "field": "key"}, "y": {"value": 300}},
-            "layer": [{"mark": {"type": "text", "style": "label"},
-                        "encoding": {"text": {"aggregate": "min", "field": "min"}}},
-                      {"mark": {"type": "tick", "style": "tick", "size": 8, "color": "#ccc"}}]
-        }
+    {"encoding": {"x": {"type": "nominal", "field": "key"}, "y": {"value": 0}},
+        "layer": [{"mark": {"type": "text", "style": "label"},
+                    "encoding": {"text": {"aggregate": "max", "field": "max"}}},
+                  {"mark": {"type": "tick", "style": "tick", "size": 8, "color": "#ccc"}}]
+    },
+    {"encoding": {"x": {"type": "nominal", "field": "key"}, "y": {"value": 150}},
+        "layer": [{"mark": {"type": "text", "style": "label"},
+                    "encoding": {"text": {"aggregate": "min", "field": "mid"}}},
+                  {"mark": {"type": "tick", "style": "tick", "size": 8, "color": "#ccc"}}]
+    },
+    {"encoding": {"x": {"type": "nominal", "field": "key"}, "y": {"value": 300}},
+        "layer": [{"mark": {"type": "text", "style": "label"},
+                    "encoding": {"text": {"aggregate": "min", "field": "min"}}},
+                  {"mark": {"type": "tick", "style": "tick", "size": 8, "color": "#ccc"}}]
+    }    
     ],
     "config": {
         "axisX": {"domain": false, "labelAngle": 0, "tickColor": "#ccc", "title": null},
