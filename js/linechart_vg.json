@@ -1,57 +1,64 @@
 {
-  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 450,
-  "height": 450,
-  "title": {
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 450,
+    "height": 450,
+    "title": {
       "text": "Country Growth for Imports and Exports",
       "anchor": "middle",
       "fontSize": 16,
       "frame": "group",
       "offset": 10
-  },
-  "data": {"url": "data/countrygrowth.csv"},
-  "transform": [
+    },
+    "data": {"url": "data/countrygrowth.csv"},
+    "transform": [
       {
-          "filter": "AllCountriesFilter === 'Show All' || datum.Country === AllCountriesFilter"
+        "filter": "AllCountriesFilter === 'Show All' || datum.Country === AllCountriesFilter"
       },
       {
-          "filter": {
-              "field": "Country",
-              "oneOf": ["Australia", "Lebanon", "Zimbabwe", "Burundi", "Greece"]
-          }
+        "filter": {
+          "field": "Country",
+          "oneOf": ["Australia", "Lebanon", "Zimbabwe", "Burundi", "Greece"]
+        }
       }
-  ],
-  "params": [
+    ],
+    "params": [
       {
-          "name": "AllCountriesFilter",
-          "value": "Show All",
-          "bind": {
-              "input": "select",
-              "options": ["Show All", "Australia", "Lebanon", "Zimbabwe", "Burundi", "Greece"],
-              "name": "Country "
-          }
+        "name": "AllCountriesFilter",
+        "value": "Show All",
+        "bind": {
+          "input": "select",
+          "options": ["Show All", "Australia", "Lebanon", "Zimbabwe", "Burundi", "Greece"],
+          "name": "Country"
+        }
       }
-  ],
-  "mark": {
+    ],
+    "mark": {
       "type": "line",
       "point": true,
-      "tooltip": true  
-  },
-  "encoding": {
+      "tooltip": true
+    },
+    "encoding": {
       "x": {"field": "Year", "type": "temporal"},
       "y": {"field": "Country_growth", "type": "quantitative"},
       "color": {
-          "field": "Country",
-          "type": "nominal",
-          "scale": {
-              "domain": ["Australia", "Lebanon", "Zimbabwe", "Burundi", "Greece"],
-              "range": ["#08306b", "#808080", "#FFA500", "#6e9abf", "#FFD700"]
-          }
+        "field": "Country",
+        "type": "nominal",
+        "scale": {
+          "domain": ["Australia", "Lebanon", "Zimbabwe", "Burundi", "Greece"],
+          "range": [
+            "#1f77b4",
+            "#ff7f0e",
+            "#2ca02c",
+            "#d62728",
+            "#9467bd"
+          ]
+        }
       },
-      "tooltip": [   
-          {"field": "Country", "type": "nominal", "title": "Country"},
-          {"field": "Year", "type": "temporal", "title": "Year", "format": "%Y"},
-          {"field": "Country_growth", "type": "quantitative", "title": "Growth"}
+      "tooltip": [
+        {"field": "Country", "type": "nominal", "title": "Country"},
+        {"field": "Year", "type": "temporal", "title": "Year", "format": "%Y"},
+        {"field": "Country_growth", "type": "quantitative", "title": "Growth"}
       ]
+    }
   }
-}
+  
