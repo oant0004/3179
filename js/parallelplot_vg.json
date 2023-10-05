@@ -11,10 +11,10 @@
         {
             "filter": {
                 "field": "Country",
-                "oneOf": ["Australia", "Thailand", "United States", "Indonesia", "India", "United Kingdom", "China", "Japan", "Singapore", "New Zealand"]
+                "oneOf": ["Australia", "United States", "India", "United Kingdom", "China"]
             }
         },
-        {"filter": "datum['MFN_SimpleAverage']"},
+        {"filter": "isValid(datum['MFN_SimpleAverage'])"},
         {"window": [{"op": "count", "as": "index"}]},
         {"fold": ["MFN_SimpleAverage", "MFN_WeightedAverage", "MFN_Total_Tariff", "MFN_SpecificTariff"]},
         {
@@ -25,7 +25,7 @@
             "groupby": ["key"]
         },
         {
-            "calculate": "(datum.value - datum.min) / (datum.max-datum.min)",
+            "calculate": "datum.max === datum.min ? 0 : (datum.value - datum.min) / (datum.max-datum.min)",
             "as": "norm_val"
         },
         {
