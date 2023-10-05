@@ -13,4 +13,9 @@ vegaEmbed("#line_chart", vg_3).then(function(result) {
     // Access the Vega view instance as result.view
 }).catch(console.error);
 
+var vg_4 = "js/parallelplot_vg.json"; 
+vegaEmbed("#parallel_plot", vg_4).then(function(result) {
+    // Access the Vega view instance as result.view
+}).catch(console.error);
+
 
