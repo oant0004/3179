@@ -39,11 +39,44 @@
         }
       },
       {
+        "params": [
+          {
+            "name": "country_highlight",
+            "select": {
+              "type": "point",
+              "fields": ["Country"]
+            },
+            "bind": "legend"
+          }
+        ],
         "mark": "line",
         "encoding": {
-          "color": {"type": "nominal", "field": "Country"},
+          "color": {
+            "type": "nominal",
+            "field": "Country",
+            "scale": {
+              "range": [
+                "#1f77b4",
+                "#ff7f0e",
+                "#2ca02c",
+                "#d62728",
+                "#9467bd",
+                "#8c564b",
+                "#e377c2",
+                "#7f7f7f",
+                "#bcbd22",
+                "#17becf"
+              ]
+            }
+          },
           "detail": {"type": "nominal", "field": "index"},
-          "opacity": {"value": 0.3},
+          "opacity": {
+            "condition": {
+              "param": "country_highlight",
+              "value": 0.9
+            },
+            "value": 0.3
+          },
           "x": {"type": "nominal", "field": "key"},
           "y": {"type": "quantitative", "field": "norm_val", "axis": null},
           "tooltip": [
@@ -115,3 +148,4 @@
       }
     }
   }
+  
