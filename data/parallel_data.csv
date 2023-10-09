@@ -1,4 +1,4 @@
-﻿Country,Year,MFN _SimpleAverage ,MFN_ WeightedAverage ,MFN_Total_ Tariff ,MFN_SpecificTariff
+﻿Country,Year,MFN_SimpleAverage,MFN_WeightedAverage,MFN_Total_Tariff,MFN_SpecificTariff
  World,2021,8.93,6.57,1535059,0.04
 Afghanistan,2021,9.9,8.23,620990,17.97
 Albania,2021,9.26,9.21,793282,7.51
