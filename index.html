@@ -6,17 +6,35 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+    <!-- Importing Vega libraries -->
     <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
 
-    <title>First vega-lite graph</title>
+    <!-- Importing the custom CSS -->
+    <link rel="stylesheet" href="css/styles.css">
+
+    <title>Global Imports And Exports Visualization</title>
 </head>
-
-<body>
-    <h1>Global Imports And Exports</h1>
+<div class="container">
+    <h1 class="main-title">
+        <span class="dark-blue">Global Imports</span> 
+        <span class="light-blue">And Exports</span>
+    </h1>
     <div id="global_map"></div>
+    
+    <!-- Add your explanation here -->
+    <p class="map-description">
+        This map visualizes the import and export data across the world from 1988 to 2021. Use the interactive features to explore deeper insights.
+    </p>
+</div>
 
+
+    <!-- Importing the Vega-Lite logic -->
+    <script src="vegalite.js"></script>
+</body>
+
+</html>
     <h1>Country Growth</h1>
     <div id="line_chart"></div>
 
