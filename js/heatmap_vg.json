@@ -67,7 +67,7 @@
     {
       "fill": "color",
       "type": "symbol",
-      "title": "Average Tariff Rate",
+      "title": "Average Tariff Rate (%)",
       "direction": "horizontal",
       "orient": "top",
       "titleFontSize": 12,
@@ -87,7 +87,7 @@
           "width": {"value": 15},
           "height": {"scale": "y", "band": 1},
           "tooltip": [
-            {"signal": "{\"Country\": datum.Country, \"Year\": datum.Year, \"Average Tariff Rate\": format(datum.AHS_Simple_Average, ',.2f')}"}
+            {"signal": "{\"Country\": datum.Country, \"Year\": datum.Year, \"Average Tariff Rate (%)\": format(datum.AHS_Simple_Average, ',.2f')}"}
           ],
           "stroke": {"value": "white"},
           "strokeWidth": {"value": 1}

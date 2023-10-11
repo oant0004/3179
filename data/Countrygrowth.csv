@@ -1,1957 +1,1124 @@
-Country,Continent,Year,Country Growth (%)
-Algeria,Africa,2010,2.19
-Angola,Africa,2010,-12.91
-Benin,Africa,2010,17.36
-Botswana,Africa,2010,3.76
-Burkina Faso,Africa,2010,1.17
-Burundi,Africa,2010,8.25
-Cameroon,Africa,2010,16.4
-Cape Verde,Africa,2010,4.36
-Central African Republic,Africa,2010,-0.42
-Comoros,Africa,2010,0.11
-"Congo, Rep.",Africa,2010,-0.88
-Cote d'Ivoire,Africa,2010,6.02
-"Egypt, Arab Rep.",Africa,2010,8.01
-Eswatini,Africa,2010,18.58
-Ethiopia(excludes Eritrea),Africa,2010,4.07
-Fm Sudan,Africa,2010,22.17
-"Gambia, The",Africa,2010,-8.72
-Ghana,Africa,2010,11.61
-Kenya,Africa,2010,8.87
-Lesotho,Africa,2010,-2.97
-Libya,Africa,2010,17.24
-Madagascar,Africa,2010,-10.55
-Malawi,Africa,2010,1.47
-Mauritania,Africa,2010,13.01
-Mauritius,Africa,2010,8.71
-Morocco,Africa,2010,3.92
-Mozambique,Africa,2010,-2.69
-Namibia,Africa,2010,-1.86
-Niger,Africa,2010,18.63
-Nigeria,Africa,2010,14.22
-Rwanda,Africa,2010,6
-Sao Tome and Principe,Africa,2010,-0.7
-Saudi Arabia,Africa,2010,5.87
-Senegal,Africa,2010,0.68
-Seychelles,Africa,2010,30.5
-South Africa,Africa,2010,14.16
-Tanzania,Africa,2010,10.77
-Togo,Africa,2010,0.51
-Uganda,Africa,2010,4.79
-Zambia,Africa,2010,17.9
-Zimbabwe,Africa,2010,-3.4
-Algeria,Africa,2011,7.32
-Angola,Africa,2011,7.05
-Benin,Africa,2011,-1.5
-Botswana,Africa,2011,27.75
-Burkina Faso,Africa,2011,10.41
-Burundi,Africa,2011,67.06
-Cameroon,Africa,2011,-0.58
-Cape Verde,Africa,2011,13.81
-Central African Republic,Africa,2011,1.13
-Comoros,Africa,2011,8.02
-"Congo, Rep.",Africa,2011,26.69
-Cote d'Ivoire,Africa,2011,-7.6
-"Egypt, Arab Rep.",Africa,2011,8.4
-Eswatini,Africa,2011,21.93
-Ethiopia(excludes Eritrea),Africa,2011,3.15
-Fm Sudan,Africa,2011,-10.34
-"Gambia, The",Africa,2011,22.97
-Ghana,Africa,2011,25.1
-Lesotho,Africa,2011,6.93
-Madagascar,Africa,2011,3.56
-Malawi,Africa,2011,5.9
-Mali,Africa,2011,-15.59
-Mauritania,Africa,2011,19.84
-Mauritius,Africa,2011,8.25
-Morocco,Africa,2011,11.85
-Mozambique,Africa,2011,33.01
-Namibia,Africa,2011,3.92
-Niger,Africa,2011,-8.5
-Nigeria,Africa,2011,20.26
-Rwanda,Africa,2011,10.62
-Sao Tome and Principe,Africa,2011,9.19
-Saudi Arabia,Africa,2011,11.13
-Senegal,Africa,2011,11.22
-Seychelles,Africa,2011,20.42
-South Africa,Africa,2011,11.22
-Tanzania,Africa,2011,18.14
-Togo,Africa,2011,17.31
-Uganda,Africa,2011,9.87
-Zambia,Africa,2011,16.96
-Zimbabwe,Africa,2011,22.31
-Algeria,Africa,2012,3.28
-Angola,Africa,2012,17.54
-Benin,Africa,2012,5.78
-Botswana,Africa,2012,11.32
-Burkina Faso,Africa,2012,13.16
-Burundi,Africa,2012,-5.68
-Cameroon,Africa,2012,13.31
-Cape Verde,Africa,2012,-10.7
-Central African Republic,Africa,2012,0.66
-Comoros,Africa,2012,-0.88
-"Congo, Rep.",Africa,2012,2.37
-Cote d'Ivoire,Africa,2012,20.65
-"Egypt, Arab Rep.",Africa,2012,5.91
-Eswatini,Africa,2012,-19.87
-Ethiopia(excludes Eritrea),Africa,2012,16.49
-"Gambia, The",Africa,2012,5.71
-Ghana,Africa,2012,3.8
-Lesotho,Africa,2012,4.51
-Madagascar,Africa,2012,-4.81
-Malawi,Africa,2012,6.02
-Mali,Africa,2012,1.64
-Mauritania,Africa,2012,10.05
-Mauritius,Africa,2012,5.78
-Morocco,Africa,2012,0.59
-Mozambique,Africa,2012,-1.02
-Namibia,Africa,2012,5.1
-Niger,Africa,2012,-6.18
-Nigeria,Africa,2012,-25.12
-Rwanda,Africa,2012,-0.37
-Sao Tome and Principe,Africa,2012,2.78
-Saudi Arabia,Africa,2012,8.72
-Senegal,Africa,2012,4.35
-Seychelles,Africa,2012,-23.84
-South Africa,Africa,2012,0.67
-Tanzania,Africa,2012,2.35
-Togo,Africa,2012,0.28
-Uganda,Africa,2012,3.6
-Zambia,Africa,2012,9.96
-Zimbabwe,Africa,2012,-6.78
-Algeria,Africa,2013,4.41
-Angola,Africa,2013,-3.48
-Benin,Africa,2013,12.67
-Botswana,Africa,2013,-4.04
-Burkina Faso,Africa,2013,10.71
-Burundi,Africa,2013,-15.18
-Cameroon,Africa,2013,1.08
-Cape Verde,Africa,2013,-1.91
-Central African Republic,Africa,2013,-22.78
-Comoros,Africa,2013,0.86
-"Congo, Rep.",Africa,2013,6.73
-Cote d'Ivoire,Africa,2013,14.11
-"Egypt, Arab Rep.",Africa,2013,-2.32
-Eswatini,Africa,2013,-1.28
-Ethiopia(excludes Eritrea),Africa,2013,-1.36
-"Gambia, The",Africa,2013,-4.3
-Ghana,Africa,2013,-2.96
-Lesotho,Africa,2013,7.18
-Madagascar,Africa,2013,4.45
-Malawi,Africa,2013,1.96
-Mauritania,Africa,2013,15.73
-Mauritius,Africa,2013,-3.32
-Morocco,Africa,2013,0.44
-Mozambique,Africa,2013,27.86
-Namibia,Africa,2013,3.06
-Niger,Africa,2013,0.78
-Nigeria,Africa,2013,11.5
-Rwanda,Africa,2013,14.3
-Sao Tome and Principe,Africa,2013,3.77
-Saudi Arabia,Africa,2013,3.81
-Senegal,Africa,2013,0.91
-Seychelles,Africa,2013,-1.6
-South Africa,Africa,2013,-0.42
-Sudan,Africa,2013,1.06
-Tanzania,Africa,2013,3.4
-Togo,Africa,2013,15.1
-Uganda,Africa,2013,-1.89
-Zambia,Africa,2013,9.54
-Zimbabwe,Africa,2013,1.98
-Algeria,Africa,2014,3.32
-Angola,Africa,2014,3.67
-Benin,Africa,2014,12.23
-Botswana,Africa,2014,-1.75
-Burkina Faso,Africa,2014,-9.27
-Burundi,Africa,2014,-3.46
-Cameroon,Africa,2014,6.57
-Cape Verde,Africa,2014,2.81
-Central African Republic,Africa,2014,54.09
-Comoros,Africa,2014,-4.35
-"Congo, Rep.",Africa,2014,9.83
-Cote d'Ivoire,Africa,2014,-6.51
-"Egypt, Arab Rep.",Africa,2014,3.44
-Eswatini,Africa,2014,-5
-Ethiopia(excludes Eritrea),Africa,2014,17.68
-"Gambia, The",Africa,2014,5.05
-Ghana,Africa,2014,14.58
-Guinea,Africa,2014,2.23
-Lesotho,Africa,2014,-11.83
-Madagascar,Africa,2014,10.66
-Malawi,Africa,2014,-1.48
-Mauritania,Africa,2014,-4.33
-Mauritius,Africa,2014,1.94
-Morocco,Africa,2014,1.11
-Mozambique,Africa,2014,-6.96
-Namibia,Africa,2014,6.13
-Niger,Africa,2014,12.02
-Nigeria,Africa,2014,2.15
-Rwanda,Africa,2014,5.19
-Sao Tome and Principe,Africa,2014,5.63
-Saudi Arabia,Africa,2014,1.59
-Senegal,Africa,2014,-0.38
-Seychelles,Africa,2014,-2
-South Africa,Africa,2014,-1.72
-Sudan,Africa,2014,20.01
-Tanzania,Africa,2014,0.66
-Togo,Africa,2014,-9.38
-Uganda,Africa,2014,2.18
-Zambia,Africa,2014,-2.94
-Zimbabwe,Africa,2014,-8.29
-Algeria,Africa,2015,-5.99
-Angola,Africa,2015,-13.43
-Benin,Africa,2015,-17.08
-Botswana,Africa,2015,-6.22
-Burkina Faso,Africa,2015,-7.49
-Burundi,Africa,2015,-8.7
-Cameroon,Africa,2015,-10.65
-Cape Verde,Africa,2015,-11.33
-Central African Republic,Africa,2015,21.75
-Comoros,Africa,2015,-5.1
-"Congo, Rep.",Africa,2015,2.21
-Cote d'Ivoire,Africa,2015,-3.26
-"Egypt, Arab Rep.",Africa,2015,1.85
-Eswatini,Africa,2015,-6.63
-Ethiopia(excludes Eritrea),Africa,2015,2.83
-"Gambia, The",Africa,2015,0.92
-Ghana,Africa,2015,-6.46
-Guinea,Africa,2015,-7.68
-Lesotho,Africa,2015,-0.5
-Madagascar,Africa,2015,-5.36
-Malawi,Africa,2015,-9.2
-Mauritania,Africa,2015,0.84
-Mauritius,Africa,2015,-10.83
-Morocco,Africa,2015,-9.13
-Mozambique,Africa,2015,-4.9
-Namibia,Africa,2015,-5.01
-Niger,Africa,2015,6.9
-Nigeria,Africa,2015,-14.73
-Rwanda,Africa,2015,3.94
-Sao Tome and Principe,Africa,2015,-8.58
-Saudi Arabia,Africa,2015,1.93
-Senegal,Africa,2015,-7.24
-Seychelles,Africa,2015,-40.69
-Sierra Leone,Africa,2015,-7.51
-South Africa,Africa,2015,-7.43
-Sudan,Africa,2015,-6.92
-Tanzania,Africa,2015,7.65
-Togo,Africa,2015,-3.92
-Uganda,Africa,2015,-4.6
-Zambia,Africa,2015,-10.61
-Zimbabwe,Africa,2015,-0.14
-Algeria,Africa,2016,-4.66
-Angola,Africa,2016,-18.4
-Benin,Africa,2016,0.26
-Botswana,Africa,2016,-12.92
-Burkina Faso,Africa,2016,4.36
-Burundi,Africa,2016,5.62
-Cameroon,Africa,2016,-9.92
-Cape Verde,Africa,2016,5.54
-Central African Republic,Africa,2016,-6.25
-Comoros,Africa,2016,6.38
-"Congo, Dem. Rep.",Africa,2016,-17.5
-"Congo, Rep.",Africa,2016,3.36
-Cote d'Ivoire,Africa,2016,-9.19
-"Egypt, Arab Rep.",Africa,2016,-2.27
-Eswatini,Africa,2016,0.93
-Ethiopia(excludes Eritrea),Africa,2016,-0.67
-"Gambia, The",Africa,2016,-3.26
-Ghana,Africa,2016,-12.05
-Guinea,Africa,2016,27.25
-Kenya,Africa,2016,-6.25
-Lesotho,Africa,2016,2.65
-Madagascar,Africa,2016,0
-Malawi,Africa,2016,-0.35
-Mauritania,Africa,2016,-23.39
-Mauritius,Africa,2016,2.18
-Morocco,Africa,2016,4.55
-Mozambique,Africa,2016,-18.17
-Namibia,Africa,2016,-6.56
-Niger,Africa,2016,-12.94
-Nigeria,Africa,2016,2
-Rwanda,Africa,2016,3.66
-Sao Tome and Principe,Africa,2016,-0.88
-Saudi Arabia,Africa,2016,-10.45
-Senegal,Africa,2016,-1.06
-Seychelles,Africa,2016,25.28
-Sierra Leone,Africa,2016,-26.21
-South Africa,Africa,2016,-6.25
-Sudan,Africa,2016,10.51
-Tanzania,Africa,2016,-26.82
-Togo,Africa,2016,-3.93
-Uganda,Africa,2016,-6.53
-Zambia,Africa,2016,-4.15
-Zimbabwe,Africa,2016,-6.11
+Country,Continent,Year,Country_growth
+Afghanistan,Asia,2017,9.21
+Afghanistan,Asia,2019,7.56
+Afghanistan,Asia,2015,0.17
+Afghanistan,Asia,2018,-2.51
+Afghanistan,Asia,2016,-8.02
+Albania,Europe,2021,19.56
+Albania,Europe,2017,6.36
+Albania,Europe,2018,6.06
+Albania,Europe,2016,3.96
+Albania,Europe,2019,-0.28
+Albania,Europe,2020,-4.3
+Albania,Europe,2015,-9.11
 Algeria,Africa,2017,-1.11
+Algeria,Africa,2016,-4.66
+Algeria,Africa,2015,-5.99
+Andorra,Europe,2017,4.49
+Andorra,Europe,2018,4.34
+Andorra,Europe,2016,2.31
+Andorra,Europe,2021,2.27
+Andorra,Europe,2020,-1.45
+Andorra,Europe,2019,-2.22
+Andorra,Europe,2015,-8.82
+Angola,Africa,2021,10.39
 Angola,Africa,2017,3.81
-Benin,Africa,2017,11.98
-Botswana,Africa,2017,-6.46
-Burkina Faso,Africa,2017,8.61
-Burundi,Africa,2017,11.92
-Cameroon,Africa,2017,45.48
-Cape Verde,Africa,2017,8.66
-Central African Republic,Africa,2017,2.15
-Comoros,Africa,2017,3.22
-"Congo, Dem. Rep.",Africa,2017,2.8
-"Congo, Rep.",Africa,2017,-36.39
-Cote d'Ivoire,Africa,2017,5.84
-"Egypt, Arab Rep.",Africa,2017,-2.8
-Eswatini,Africa,2017,2.42
-Ethiopia(excludes Eritrea),Africa,2017,-4.97
-"Gambia, The",Africa,2017,12.13
-Ghana,Africa,2017,5.8
-Kenya,Africa,2017,8.75
-Lesotho,Africa,2017,17.93
-Libya,Africa,2017,-5.89
-Madagascar,Africa,2017,11.29
-Malawi,Africa,2017,6.39
-Mali,Africa,2017,6.19
-Mauritania,Africa,2017,27.29
-Mauritius,Africa,2017,6.4
-Morocco,Africa,2017,3.93
-Mozambique,Africa,2017,3.77
-Namibia,Africa,2017,0.42
-Niger,Africa,2017,-2.76
-Nigeria,Africa,2017,-5.74
-Rwanda,Africa,2017,2.97
-Sao Tome and Principe,Africa,2017,2.72
-Saudi Arabia,Africa,2017,-2.04
-Senegal,Africa,2017,10.83
-Seychelles,Africa,2017,50.08
-Sierra Leone,Africa,2017,5.87
-South Africa,Africa,2017,5.15
-Sudan,Africa,2017,0.01
-Tanzania,Africa,2017,-0.71
-Togo,Africa,2017,-2.83
-Uganda,Africa,2017,7.64
-Zambia,Africa,2017,4.78
-Zimbabwe,Africa,2017,-3.56
 Angola,Africa,2018,1.75
+Angola,Africa,2019,-6.61
+Angola,Africa,2015,-13.43
+Angola,Africa,2020,-18.22
+Angola,Africa,2016,-18.4
+Antigua and Barbuda,North America,2017,13.31
+Antigua and Barbuda,North America,2016,2.69
+Antigua and Barbuda,North America,2019,-0.08
+Antigua and Barbuda,North America,2018,-4.94
+Antigua and Barbuda,North America,2015,-8.18
+Argentina,South America,2021,22.14
+Argentina,South America,2017,9.39
+Argentina,South America,2018,-1.1
+Argentina,South America,2016,-3.63
+Argentina,South America,2015,-4.3
+Argentina,South America,2020,-7.15
+Argentina,South America,2019,-13.36
+Armenia,South America,2018,11.14
+Armenia,South America,2017,9.99
+Armenia,South America,2021,9.37
+Armenia,South America,2019,2.6
+Armenia,South America,2016,-0.59
+Armenia,South America,2020,-6.24
+Armenia,South America,2015,-11.51
+Aruba,North America,2021,11.59
+Aruba,North America,2017,3.42
+Aruba,North America,2018,2.52
+Aruba,North America,2019,2.28
+Aruba,North America,2016,-2.08
+Aruba,North America,2015,-4.75
+Aruba,North America,2020,-15.44
+Australia,Oceania,2021,11.55
+Australia,Oceania,2017,9.82
+Australia,Oceania,2018,1.56
+Australia,Oceania,2020,-2.59
+Australia,Oceania,2016,-2.71
+Australia,Oceania,2019,-3.04
+Australia,Oceania,2015,-6.22
+Austria,Europe,2021,13.19
+Austria,Europe,2017,5.35
+Austria,Europe,2018,5.19
+Austria,Europe,2016,0.69
+Austria,Europe,2019,-2.08
+Austria,Europe,2020,-3.45
+Austria,Europe,2015,-7.38
+Azerbaijan,Europe,2018,14.33
+Azerbaijan,Europe,2019,9.13
+Azerbaijan,Europe,2021,4.4
+Azerbaijan,Europe,2017,1.73
+Azerbaijan,Europe,2015,0.19
+Azerbaijan,Europe,2016,-4.11
+Azerbaijan,Europe,2020,-11.33
+"Bahamas, The",North America,2017,8.93
+"Bahamas, The",North America,2018,0.67
+"Bahamas, The",North America,2019,-2.93
+"Bahamas, The",North America,2016,-3.71
+"Bahamas, The",North America,2015,-8.67
+"Bahamas, The",North America,2020,-18.51
+Bahrain,Asia,2018,8.83
+Bahrain,Asia,2017,8.59
+Bahrain,Asia,2021,-4.38
+Bahrain,Asia,2019,-5
+Bahrain,Asia,2016,-5.14
+Bahrain,Asia,2020,-8.81
+Bahrain,Asia,2015,-9.64
+Barbados,North America,2021,5.59
+Barbados,North America,2016,0.11
+Barbados,North America,2018,0.01
+Barbados,North America,2019,-0.6
+Barbados,North America,2017,-0.67
+Barbados,North America,2020,-2.56
+Barbados,North America,2015,-3.59
+Belarus,Europe,2021,12.96
+Belarus,Europe,2017,11.35
+Belarus,Europe,2018,5.92
+Belarus,Europe,2019,1.38
+Belarus,Europe,2016,-4.53
+Belarus,Europe,2020,-8.89
+Belarus,Europe,2015,-13.52
+Belgium,Europe,2021,15.67
+Belgium,Europe,2018,5.43
+Belgium,Europe,2017,5.1
+Belgium,Europe,2016,3.49
+Belgium,Europe,2019,-3.19
+Belgium,Europe,2020,-3.92
+Belgium,Europe,2015,-11.27
+Belize,North America,2021,16.07
+Belize,North America,2018,2.41
+Belize,North America,2015,1.72
+Belize,North America,2019,1.46
+Belize,North America,2017,-2.09
+Belize,North America,2016,-2.19
+Belize,North America,2020,-10.65
+Benin,Africa,2017,11.98
+Benin,Africa,2021,9.39
 Benin,Africa,2018,2.07
+Benin,Africa,2016,0.26
+Benin,Africa,2020,-4.77
+Benin,Africa,2019,-6.3
+Benin,Africa,2015,-17.08
+Bermuda,North America,2021,8.04
+Bermuda,North America,2017,5.35
+Bermuda,North America,2016,2.26
+Bermuda,North America,2019,2.21
+Bermuda,North America,2018,-0.38
+Bermuda,North America,2015,-1.69
+Bermuda,North America,2020,-10.07
+Bolivia,South America,2021,16.27
+Bolivia,South America,2017,4.59
+Bolivia,South America,2018,3.32
+Bolivia,South America,2019,-0.88
+Bolivia,South America,2015,-3.97
+Bolivia,South America,2016,-6.72
+Bolivia,South America,2020,-14.9
+Bosnia and Herzegovina,Europe,2021,14.91
+Bosnia and Herzegovina,Europe,2017,7.04
+Bosnia and Herzegovina,Europe,2018,5.37
+Bosnia and Herzegovina,Europe,2016,0.82
+Bosnia and Herzegovina,Europe,2019,-2.04
+Bosnia and Herzegovina,Europe,2020,-5.96
+Bosnia and Herzegovina,Europe,2015,-9.54
+Botswana,Africa,2021,14.01
 Botswana,Africa,2018,8.91
+Botswana,Africa,2019,1.85
+Botswana,Africa,2020,-0.47
+Botswana,Africa,2015,-6.22
+Botswana,Africa,2017,-6.46
+Botswana,Africa,2016,-12.92
+Brazil,South America,2021,18.78
+Brazil,South America,2018,7.83
+Brazil,South America,2017,6.86
+Brazil,South America,2019,0.08
+Brazil,South America,2020,-7.2
+Brazil,South America,2016,-10.28
+Brazil,South America,2015,-13.43
+Brunei,Asia,2021,26.69
+Brunei,Asia,2018,16.19
+Brunei,Asia,2019,10.7
+Brunei,Asia,2017,7.31
+Brunei,Asia,2020,2.32
+Brunei,Asia,2015,-5.28
+Brunei,Asia,2016,-8.92
+Bulgaria,Europe,2021,15.09
+Bulgaria,Europe,2017,8.78
+Bulgaria,Europe,2018,5.21
+Bulgaria,Europe,2019,-0.21
+Bulgaria,Europe,2016,-0.53
+Bulgaria,Europe,2020,-3.69
+Bulgaria,Europe,2015,-8.22
+Burkina Faso,Africa,2017,8.61
+Burkina Faso,Africa,2021,6.16
 Burkina Faso,Africa,2018,5.59
+Burkina Faso,Africa,2016,4.36
+Burkina Faso,Africa,2020,-0.95
+Burkina Faso,Africa,2019,-1.57
+Burkina Faso,Africa,2015,-7.49
+Burundi,Africa,2017,11.92
+Burundi,Africa,2021,6.14
+Burundi,Africa,2019,5.77
+Burundi,Africa,2016,5.62
+Burundi,Africa,2020,1.23
 Burundi,Africa,2018,0.65
+Burundi,Africa,2015,-8.7
+Cambodia,Asia,2021,22.54
+Cambodia,Asia,2018,10.65
+Cambodia,Asia,2016,7.68
+Cambodia,Asia,2019,7.68
+Cambodia,Asia,2017,7.45
+Cambodia,Asia,2015,4.86
+Cambodia,Asia,2020,-2.91
+Cameroon,Africa,2017,45.48
+Cameroon,Africa,2016,-9.92
+Cameroon,Africa,2015,-10.65
 Cameroon,Africa,2018,-23.09
+Canada,North America,2021,10.12
+Canada,North America,2017,3.75
+Canada,North America,2018,3.06
+Canada,North America,2019,-0.69
+Canada,North America,2016,-2.06
+Canada,North America,2015,-4.84
+Canada,North America,2020,-5.49
+Cape Verde,Africa,2020,19.69
+Cape Verde,Africa,2017,8.66
+Cape Verde,Africa,2016,5.54
 Cape Verde,Africa,2018,1.31
+Cape Verde,Africa,2019,-1.54
+Cape Verde,Africa,2015,-11.33
+Cayman Islands,North America,2021,7.34
+Central African Republic,Africa,2015,21.75
+Central African Republic,Africa,2019,21.54
+Central African Republic,Africa,2017,2.15
+Central African Republic,Africa,2020,-2.04
 Central African Republic,Africa,2018,-4.19
+Central African Republic,Africa,2016,-6.25
+Chile,South America,2021,24.79
+Chile,South America,2018,7
+Chile,South America,2017,4.84
+Chile,South America,2016,-2.46
+Chile,South America,2019,-3.24
+Chile,South America,2015,-7.51
+Chile,South America,2020,-7.94
+China,Asia,2021,13.89
+China,Asia,2017,7.76
+China,Asia,2018,7.57
+China,Asia,2020,-0.23
+China,Asia,2019,-1.28
+China,Asia,2016,-2.77
+China,Asia,2015,-7.41
+Colombia,South America,2021,18.53
+Colombia,South America,2018,5.47
+Colombia,South America,2019,1.42
+Colombia,South America,2017,1.35
+Colombia,South America,2015,-8.13
+Colombia,South America,2016,-8.91
+Colombia,South America,2020,-9.16
+Comoros,Africa,2021,28.62
+Comoros,Africa,2020,15.35
+Comoros,Africa,2016,6.38
 Comoros,Africa,2018,4.8
+Comoros,Africa,2017,3.22
+Comoros,Africa,2015,-5.1
+Comoros,Africa,2019,-6.41
 "Congo, Dem. Rep.",Africa,2018,16.9
+"Congo, Dem. Rep.",Africa,2021,7.2
+"Congo, Dem. Rep.",Africa,2019,5.49
+"Congo, Dem. Rep.",Africa,2017,2.8
+"Congo, Dem. Rep.",Africa,2020,-13.11
+"Congo, Dem. Rep.",Africa,2016,-17.5
+"Congo, Rep.",Africa,2021,11.01
+"Congo, Rep.",Africa,2016,3.36
+"Congo, Rep.",Africa,2015,2.21
+"Congo, Rep.",Africa,2020,-7.75
 "Congo, Rep.",Africa,2018,-12.57
+"Congo, Rep.",Africa,2019,-19.79
+"Congo, Rep.",Africa,2017,-36.39
+Costa Rica,North America,2021,12.91
+Costa Rica,North America,2017,3.31
+Costa Rica,North America,2018,0.64
+Costa Rica,North America,2016,-0.59
+Costa Rica,North America,2019,-1.39
+Costa Rica,North America,2015,-5.02
+Costa Rica,North America,2020,-5.26
 Cote d'Ivoire,Africa,2018,6.82
+Cote d'Ivoire,Africa,2017,5.84
+Cote d'Ivoire,Africa,2020,0.21
+Cote d'Ivoire,Africa,2019,-2.25
+Cote d'Ivoire,Africa,2015,-3.26
+Cote d'Ivoire,Africa,2016,-9.19
+Croatia,Europe,2021,13.7
+Croatia,Europe,2018,7.09
+Croatia,Europe,2017,5.97
+Croatia,Europe,2016,2.99
+Croatia,Europe,2019,-0.19
+Croatia,Europe,2020,-3.47
+Croatia,Europe,2015,-5.21
+Cyprus,Europe,2017,8.73
+Cyprus,Europe,2021,8.27
+Cyprus,Europe,2018,7.78
+Cyprus,Europe,2016,5.02
+Cyprus,Europe,2020,-2.49
+Cyprus,Europe,2015,-5.91
+Cyprus,Europe,2019,-7.86
+Czech Republic,Europe,2021,11.33
+Czech Republic,Europe,2017,6.98
+Czech Republic,Europe,2018,6.55
+Czech Republic,Europe,2016,0.57
+Czech Republic,Europe,2019,-1.54
+Czech Republic,Europe,2020,-2.21
+Czech Republic,Europe,2015,-4.17
+Denmark,Europe,2021,12.76
+Denmark,Europe,2018,5.07
+Denmark,Europe,2017,4.46
+Denmark,Europe,2016,-0.53
+Denmark,Europe,2020,-0.64
+Denmark,Europe,2019,-2.33
+Denmark,Europe,2015,-7.43
+Dominican Republic,North America,2021,18.93
+Dominican Republic,North America,2019,3.94
+Dominican Republic,North America,2018,2
+Dominican Republic,North America,2016,1.59
+Dominican Republic,North America,2017,0.71
+Dominican Republic,North America,2015,-1.27
+Dominican Republic,North America,2020,-11.8
+Ecuador,South America,2021,19.73
+Ecuador,South America,2017,10.72
+Ecuador,South America,2018,8.07
+Ecuador,South America,2019,-1.33
+Ecuador,South America,2020,-10.89
+Ecuador,South America,2015,-11.84
+Ecuador,South America,2016,-13
 "Egypt, Arab Rep.",Africa,2018,11.12
+"Egypt, Arab Rep.",Africa,2021,10.63
+"Egypt, Arab Rep.",Africa,2015,1.85
+"Egypt, Arab Rep.",Africa,2016,-2.27
+"Egypt, Arab Rep.",Africa,2017,-2.8
+"Egypt, Arab Rep.",Africa,2019,-3.16
+"Egypt, Arab Rep.",Africa,2020,-11.7
+El Salvador,North America,2021,21.59
+El Salvador,North America,2018,4.14
+El Salvador,North America,2017,3.73
+El Salvador,North America,2019,0.6
+El Salvador,North America,2015,-1.06
+El Salvador,North America,2016,-2.3
+El Salvador,North America,2020,-7.68
+Estonia,Europe,2021,16.73
+Estonia,Europe,2018,6.83
+Estonia,Europe,2017,5.25
+Estonia,Europe,2016,-0.16
+Estonia,Europe,2020,-2.46
+Estonia,Europe,2019,-2.96
+Estonia,Europe,2015,-11.72
+Eswatini,Africa,2021,15
 Eswatini,Africa,2018,7.35
+Eswatini,Africa,2017,2.42
+Eswatini,Africa,2016,0.93
+Eswatini,Africa,2019,-0.68
+Eswatini,Africa,2020,-6.4
+Eswatini,Africa,2015,-6.63
+Ethiopia(excludes Eritrea),Africa,2021,4.15
+Ethiopia(excludes Eritrea),Africa,2015,2.83
+Ethiopia(excludes Eritrea),Africa,2019,1.81
+Ethiopia(excludes Eritrea),Africa,2016,-0.67
 Ethiopia(excludes Eritrea),Africa,2018,-2.48
+Ethiopia(excludes Eritrea),Africa,2020,-4.76
+Ethiopia(excludes Eritrea),Africa,2017,-4.97
+Fiji,Oceania,2021,10.57
+Fiji,Oceania,2018,6.5
+Fiji,Oceania,2017,2.24
+Fiji,Oceania,2019,0.95
+Fiji,Oceania,2016,0.75
+Fiji,Oceania,2015,-16.47
+Fiji,Oceania,2020,-21.12
+Finland,Europe,2021,12.41
+Finland,Europe,2017,7.64
+Finland,Europe,2018,5.72
+Finland,Europe,2016,0.27
+Finland,Europe,2019,-3
+Finland,Europe,2020,-3.77
+Finland,Europe,2015,-11.47
+France,Europe,2021,10.75
+France,Europe,2017,4.58
+France,Europe,2018,3.7
+France,Europe,2016,-0.25
+France,Europe,2019,-1.23
+France,Europe,2020,-4.81
+France,Europe,2015,-7.6
+French Polynesia,Oceania,2018,16.6
+French Polynesia,Oceania,2021,8.1
+French Polynesia,Oceania,2017,4.45
+French Polynesia,Oceania,2016,0
+French Polynesia,Oceania,2019,-3.27
+French Polynesia,Oceania,2015,-6.91
+French Polynesia,Oceania,2020,-10.06
+"Gambia, The",Africa,2021,13.17
+"Gambia, The",Africa,2017,12.13
+"Gambia, The",Africa,2020,5.81
+"Gambia, The",Africa,2019,2.94
+"Gambia, The",Africa,2015,0.92
 "Gambia, The",Africa,2018,0.6
+"Gambia, The",Africa,2016,-3.26
+Georgia,Europe,2021,11.98
+Georgia,Europe,2018,7.79
+Georgia,Europe,2017,4.76
+Georgia,Europe,2019,0.84
+Georgia,Europe,2016,0.26
+Georgia,Europe,2015,-7.85
+Georgia,Europe,2020,-8.02
+Germany,Europe,2021,10.2
+Germany,Europe,2018,7.45
+Germany,Europe,2017,2.73
+Germany,Europe,2016,0.16
+Germany,Europe,2019,-2.06
+Germany,Europe,2020,-2.73
+Germany,Europe,2015,-6.7
+Ghana,Africa,2017,5.8
 Ghana,Africa,2018,-3.35
+Ghana,Africa,2019,-6.26
+Ghana,Africa,2015,-6.46
+Ghana,Africa,2016,-12.05
+Greece,Europe,2021,66.83
+Greece,Europe,2018,8.53
+Greece,Europe,2017,7.79
+Greece,Europe,2016,0.35
+Greece,Europe,2019,-2.29
+Greece,Europe,2020,-5.51
+Greece,Europe,2015,-12.82
+Greenland,Europe,2016,4.89
+Greenland,Europe,2018,4.43
+Greenland,Europe,2017,1.81
+Greenland,Europe,2015,-12.14
+Grenada,North America,2018,12.68
+Grenada,North America,2021,6.4
+Grenada,North America,2016,4.56
+Grenada,North America,2015,4.38
+Grenada,North America,2017,2.79
+Grenada,North America,2019,-3.46
+Grenada,North America,2020,-9.32
+Guatemala,North America,2021,20.89
+Guatemala,North America,2017,4.04
+Guatemala,North America,2018,3.39
+Guatemala,North America,2019,0.58
+Guatemala,North America,2015,-1.73
+Guatemala,North America,2016,-1.88
+Guatemala,North America,2020,-4.3
+Guinea,Africa,2016,27.25
+Guinea,Africa,2015,-7.68
+Guyana,South America,2019,29.5
+Guyana,South America,2021,29.16
+Guyana,South America,2018,16.73
+Guyana,South America,2016,4.63
+Guyana,South America,2017,4.12
+Guyana,South America,2015,-8.77
+Guyana,South America,2020,-21.29
+Honduras,North America,2021,20.79
+Honduras,North America,2018,4.63
+Honduras,North America,2017,4.33
+Honduras,North America,2015,2.46
+Honduras,North America,2019,-1.45
+Honduras,North America,2016,-2.84
+Honduras,North America,2020,-6.69
+"Hong Kong, China",Asia,2021,11.56
+"Hong Kong, China",Asia,2017,3.78
+"Hong Kong, China",Asia,2018,3.17
+"Hong Kong, China",Asia,2020,-0.48
+"Hong Kong, China",Asia,2016,-1.09
+"Hong Kong, China",Asia,2015,-3.5
+"Hong Kong, China",Asia,2019,-3.96
+Hungary,Europe,2021,10.76
+Hungary,Europe,2017,6.35
+Hungary,Europe,2018,6.09
+Hungary,Europe,2016,0.8
+Hungary,Europe,2019,-0.02
+Hungary,Europe,2020,-1.68
+Hungary,Europe,2015,-6.66
+Iceland,Europe,2021,17.3
+Iceland,Europe,2017,10.56
+Iceland,Europe,2018,5.01
+Iceland,Europe,2016,3.88
+Iceland,Europe,2015,-0.81
+Iceland,Europe,2020,-6.95
+Iceland,Europe,2019,-7.48
+India,Asia,2021,24.5
+India,Asia,2018,17.97
+India,Asia,2017,11.57
+India,Asia,2016,-4.46
+India,Asia,2015,-7.77
+India,Asia,2019,-11.97
+India,Asia,2020,-12.34
+Indonesia,Asia,2021,17.72
+Indonesia,Asia,2018,9.64
+Indonesia,Asia,2017,7.58
+Indonesia,Asia,2016,-2.5
+Indonesia,Asia,2019,-4.73
+Indonesia,Asia,2020,-9.08
+Indonesia,Asia,2015,-10.51
+"Iran, Islamic Rep.",Asia,2017,9.94
+"Iran, Islamic Rep.",Asia,2016,3.27
+"Iran, Islamic Rep.",Asia,2018,-10.62
+"Iran, Islamic Rep.",Asia,2015,-12.46
+Ireland,Europe,2021,11.11
+Ireland,Europe,2018,7.68
+Ireland,Europe,2017,6.74
+Ireland,Europe,2016,2.82
+Ireland,Europe,2020,-1.21
+Ireland,Europe,2015,-2.94
+Ireland,Europe,2019,-3.15
+Israel,Asia,2021,15.35
+Israel,Asia,2018,5.26
+Israel,Asia,2016,2.96
+Israel,Asia,2017,2.49
+Israel,Asia,2019,0
+Israel,Asia,2020,-4.9
+Israel,Asia,2015,-7.37
+Italy,Europe,2021,15.43
+Italy,Europe,2017,5.61
+Italy,Europe,2018,5.37
+Italy,Europe,2016,-0.52
+Italy,Europe,2019,-2.88
+Italy,Europe,2020,-5.24
+Italy,Europe,2015,-6.9
+Jamaica,North America,2021,11.98
+Jamaica,North America,2017,10.48
+Jamaica,North America,2018,2.98
+Jamaica,North America,2019,1.76
+Jamaica,North America,2016,-2.29
+Jamaica,North America,2015,-7.5
+Jamaica,North America,2020,-13.64
+Japan,Asia,2021,10.25
+Japan,Asia,2018,5.55
+Japan,Asia,2017,5.22
+Japan,Asia,2016,-1.5
+Japan,Asia,2019,-1.85
+Japan,Asia,2020,-6.13
+Japan,Asia,2015,-12.24
+Jordan,Asia,2021,12.55
+Jordan,Asia,2017,3.08
+Jordan,Asia,2018,-0.24
+Jordan,Asia,2019,-2.43
+Jordan,Asia,2016,-3.15
+Jordan,Asia,2015,-5.11
+Jordan,Asia,2020,-6.22
+Kazakhstan,Asia,2019,9.12
+Kazakhstan,Asia,2017,8.43
+Kazakhstan,Asia,2018,6.14
+Kazakhstan,Asia,2021,3.14
+Kazakhstan,Asia,2020,-0.99
+Kazakhstan,Asia,2016,-9.25
+Kazakhstan,Asia,2015,-13.96
+Kenya,Africa,2021,12.78
+Kenya,Africa,2017,8.75
 Kenya,Africa,2018,2.04
+Kenya,Africa,2019,-0.48
+Kenya,Africa,2020,-5.39
+Kenya,Africa,2016,-6.25
+Kiribati,Oceania,2016,3.66
+Kiribati,Oceania,2018,-2.46
+Kiribati,Oceania,2015,-2.5
+Kiribati,Oceania,2017,-4.78
+"Korea, Rep.",Asia,2021,14.69
+"Korea, Rep.",Asia,2017,8.53
+"Korea, Rep.",Asia,2018,5.76
+"Korea, Rep.",Asia,2019,-3.03
+"Korea, Rep.",Asia,2016,-3.53
+"Korea, Rep.",Asia,2020,-3.61
+"Korea, Rep.",Asia,2015,-8.87
+Kuwait,Asia,2021,6.06
+Kuwait,Asia,2017,4.47
+Kuwait,Asia,2018,3.32
+Kuwait,Asia,2016,-0.28
+Kuwait,Asia,2015,-0.85
+Kuwait,Asia,2019,-3.31
+Kuwait,Asia,2020,-8.06
+Kyrgyz Republic,Asia,2021,28.36
+Kyrgyz Republic,Asia,2018,8.6
+Kyrgyz Republic,Asia,2017,8.04
+Kyrgyz Republic,Asia,2016,-2.79
+Kyrgyz Republic,Asia,2019,-2.91
+Kyrgyz Republic,Asia,2015,-15.38
+Kyrgyz Republic,Asia,2020,-17.61
+Lao PDR,Asia,2017,12.08
+Lao PDR,Asia,2021,8.22
+Lao PDR,Asia,2018,6.46
+Lao PDR,Asia,2016,4.26
+Lao PDR,Asia,2019,-0.43
+Lao PDR,Asia,2020,-7.01
+Lao PDR,Asia,2015,-7.88
+Latvia,Europe,2021,15.47
+Latvia,Europe,2017,8.1
+Latvia,Europe,2018,7.68
+Latvia,Europe,2016,-1.28
+Latvia,Europe,2020,-1.28
+Latvia,Europe,2019,-2.3
+Latvia,Europe,2015,-9.28
+Lebanon,Asia,2017,174
+Lebanon,Asia,2021,10.47
+Lebanon,Asia,2016,0.28
+Lebanon,Asia,2019,-1.88
+Lebanon,Asia,2015,-4.72
+Lebanon,Asia,2020,-23.18
+Lebanon,Asia,2018,-62.28
+Lesotho,Africa,2017,17.93
+Lesotho,Africa,2021,14.13
+Lesotho,Africa,2016,2.65
+Lesotho,Africa,2015,-0.5
+Lesotho,Africa,2019,-1.09
+Lesotho,Africa,2020,-10.24
 Lesotho,Africa,2018,-11.31
 Libya,Africa,2018,20.66
-Madagascar,Africa,2018,4.63
-Malawi,Africa,2018,2.62
-Mali,Africa,2018,3.21
-Mauritania,Africa,2018,-4.94
-Mauritius,Africa,2018,3.72
-Morocco,Africa,2018,6.72
-Mozambique,Africa,2018,9.09
-Namibia,Africa,2018,10.58
-Niger,Africa,2018,22.55
-Nigeria,Africa,2018,17.28
-Rwanda,Africa,2018,2.34
-Sao Tome and Principe,Africa,2018,0.43
-Saudi Arabia,Africa,2018,0.26
-Senegal,Africa,2018,9.52
-Seychelles,Africa,2018,-28.9
-Sierra Leone,Africa,2018,-4.12
-South Africa,Africa,2018,5.59
-Sudan,Africa,2018,1
-Tanzania,Africa,2018,4.95
-Togo,Africa,2018,2.74
-Uganda,Africa,2018,9.66
-Zambia,Africa,2018,8.93
-Zimbabwe,Africa,2018,14.01
-Angola,Africa,2019,-6.61
-Benin,Africa,2019,-6.3
-Botswana,Africa,2019,1.85
-Burkina Faso,Africa,2019,-1.57
-Burundi,Africa,2019,5.77
-Cape Verde,Africa,2019,-1.54
-Central African Republic,Africa,2019,21.54
-Comoros,Africa,2019,-6.41
-"Congo, Dem. Rep.",Africa,2019,5.49
-"Congo, Rep.",Africa,2019,-19.79
-Cote d'Ivoire,Africa,2019,-2.25
-"Egypt, Arab Rep.",Africa,2019,-3.16
-Eswatini,Africa,2019,-0.68
-Ethiopia(excludes Eritrea),Africa,2019,1.81
-"Gambia, The",Africa,2019,2.94
-Ghana,Africa,2019,-6.26
-Kenya,Africa,2019,-0.48
-Lesotho,Africa,2019,-1.09
 Libya,Africa,2019,7.82
-Madagascar,Africa,2019,-1.37
-Malawi,Africa,2019,3.76
-Mali,Africa,2019,4.54
-Mauritania,Africa,2019,5.16
-Mauritius,Africa,2019,-0.6
-Morocco,Africa,2019,-0.24
-Mozambique,Africa,2019,6.1
-Namibia,Africa,2019,-1.23
-Niger,Africa,2019,2.32
-Nigeria,Africa,2019,4.94
-Rwanda,Africa,2019,6.2
-Sao Tome and Principe,Africa,2019,-0.22
-Saudi Arabia,Africa,2019,3.32
-Senegal,Africa,2019,0.44
-Seychelles,Africa,2019,-9.24
-South Africa,Africa,2019,-2.51
-Tanzania,Africa,2019,2.89
-Togo,Africa,2019,1.75
-Uganda,Africa,2019,6.94
-Zambia,Africa,2019,-13.08
-Zimbabwe,Africa,2019,-13.85
-Angola,Africa,2020,-18.22
-Benin,Africa,2020,-4.77
-Botswana,Africa,2020,-0.47
-Burkina Faso,Africa,2020,-0.95
-Burundi,Africa,2020,1.23
-Cape Verde,Africa,2020,19.69
-Central African Republic,Africa,2020,-2.04
-Comoros,Africa,2020,15.35
-"Congo, Dem. Rep.",Africa,2020,-13.11
-"Congo, Rep.",Africa,2020,-7.75
-Cote d'Ivoire,Africa,2020,0.21
-"Egypt, Arab Rep.",Africa,2020,-11.7
-Eswatini,Africa,2020,-6.4
-Ethiopia(excludes Eritrea),Africa,2020,-4.76
-"Gambia, The",Africa,2020,5.81
-Kenya,Africa,2020,-5.39
-Lesotho,Africa,2020,-10.24
-Madagascar,Africa,2020,-9.21
-Malawi,Africa,2020,-3.77
-Mauritania,Africa,2020,-11.7
-Mauritius,Africa,2020,-13.16
-Morocco,Africa,2020,-6.61
-Mozambique,Africa,2020,-8.2
-Namibia,Africa,2020,-8.14
-Niger,Africa,2020,4.55
-Nigeria,Africa,2020,8.2
-Rwanda,Africa,2020,7.8
-Sao Tome and Principe,Africa,2020,-3.31
-Saudi Arabia,Africa,2020,-4.62
-Senegal,Africa,2020,-2.05
-Seychelles,Africa,2020,1.94
-South Africa,Africa,2020,-11.51
-Tanzania,Africa,2020,-3.02
-Togo,Africa,2020,10.24
-Uganda,Africa,2020,3.54
-Zambia,Africa,2020,-14.17
-Zimbabwe,Africa,2020,2.68
-Angola,Africa,2021,10.39
-Benin,Africa,2021,9.39
-Botswana,Africa,2021,14.01
-Burkina Faso,Africa,2021,6.16
-Burundi,Africa,2021,6.14
-Comoros,Africa,2021,28.62
-"Congo, Dem. Rep.",Africa,2021,7.2
-"Congo, Rep.",Africa,2021,11.01
-"Egypt, Arab Rep.",Africa,2021,10.63
-Eswatini,Africa,2021,15
-Ethiopia(excludes Eritrea),Africa,2021,4.15
-"Gambia, The",Africa,2021,13.17
-Kenya,Africa,2021,12.78
-Lesotho,Africa,2021,14.13
-Madagascar,Africa,2021,17.01
-Malawi,Africa,2021,7.12
-Mauritania,Africa,2021,18.61
-Mauritius,Africa,2021,10.39
-Morocco,Africa,2021,14.8
-Mozambique,Africa,2021,15.73
-Namibia,Africa,2021,26.92
-Niger,Africa,2021,-16.19
-Nigeria,Africa,2021,-3.1
-Rwanda,Africa,2021,0.4
-Sao Tome and Principe,Africa,2021,9.75
-Saudi Arabia,Africa,2021,7.83
-Senegal,Africa,2021,11.42
-Seychelles,Africa,2021,11.21
-South Africa,Africa,2021,16.42
-Tanzania,Africa,2021,12.99
-Togo,Africa,2021,14.82
-Zambia,Africa,2021,10.35
-Zimbabwe,Africa,2021,22.52
-Afghanistan,Asia,2010,24.29
-Bahrain,Asia,2010,15.51
-Bangladesh,Asia,2010,14.55
-Bhutan,Asia,2010,26.99
-Brunei,Asia,2010,2.94
-Cambodia,Asia,2010,12.04
-China,Asia,2010,17.83
-"Hong Kong, China",Asia,2010,11.94
-India,Asia,2010,14.63
-Indonesia,Asia,2010,18.37
-Israel,Asia,2010,11.79
-Japan,Asia,2010,12.13
-Jordan,Asia,2010,4.13
-Kazakhstan,Asia,2010,-8.04
-"Korea, Rep.",Asia,2010,14.72
-Kyrgyz Republic,Asia,2010,4.1
-Lebanon,Asia,2010,5.22
-Macao,Asia,2010,9.19
-Malaysia,Asia,2010,15.41
-Maldives,Asia,2010,6.47
-Nepal,Asia,2010,16.73
-Occ.Pal.Terr,Asia,2010,4.85
-Oman,Asia,2010,5.25
-Pakistan,Asia,2010,9.02
-Philippines,Asia,2010,12.89
-Singapore,Asia,2010,12.53
-Sri Lanka,Asia,2010,14.45
-Syrian Arab Republic,Asia,2010,6.64
-Thailand,Asia,2010,16.77
-United Arab Emirates,Asia,2010,6.7
-Vietnam,Asia,2010,10.13
-Yemen,Asia,2010,0.38
-Afghanistan,Asia,2011,11.35
-Bahrain,Asia,2011,5
-Bangladesh,Asia,2011,16.25
-Bhutan,Asia,2011,10.99
-Brunei,Asia,2011,19.1
-Cambodia,Asia,2011,11.94
-China,Asia,2011,11.75
-"Hong Kong, China",Asia,2011,7.58
-India,Asia,2011,14.94
-Indonesia,Asia,2011,14.36
-"Iran, Islamic Rep.",Asia,2011,11.76
-Israel,Asia,2011,11.45
-Japan,Asia,2011,11.01
-Jordan,Asia,2011,9.5
-Kazakhstan,Asia,2011,25.79
-"Korea, Rep.",Asia,2011,11.05
-Kuwait,Asia,2011,5.26
-Kyrgyz Republic,Asia,2011,14.98
-Lao PDR,Asia,2011,18.57
-Lebanon,Asia,2011,5.93
-Macao,Asia,2011,18.91
-Malaysia,Asia,2011,6.76
-Maldives,Asia,2011,13.54
-Myanmar,Asia,2011,32.72
-Nepal,Asia,2011,7.54
-Occ.Pal.Terr,Asia,2011,9.4
-Oman,Asia,2011,9.29
-Pakistan,Asia,2011,7.75
-Philippines,Asia,2011,4.37
-Singapore,Asia,2011,9.1
-Sri Lanka,Asia,2011,26.27
-Thailand,Asia,2011,11.92
-United Arab Emirates,Asia,2011,6.21
-Vietnam,Asia,2011,12.17
-Yemen,Asia,2011,4.12
-Afghanistan,Asia,2012,-1.46
-Bahrain,Asia,2012,-10.13
-Bangladesh,Asia,2012,-6.09
-Bhutan,Asia,2012,-2.9
-Brunei,Asia,2012,-0.41
-Cambodia,Asia,2012,10.25
-China,Asia,2012,2.12
-"Hong Kong, China",Asia,2012,4.09
-India,Asia,2012,2.83
-Indonesia,Asia,2012,3.94
-Israel,Asia,2012,-0.28
-Japan,Asia,2012,1.78
-Jordan,Asia,2012,6.33
-Kazakhstan,Asia,2012,8.25
-"Korea, Rep.",Asia,2012,-0.46
-Kyrgyz Republic,Asia,2012,12.3
-Lao PDR,Asia,2012,0.3
-Lebanon,Asia,2012,2.41
-Macao,Asia,2012,6.44
-Malaysia,Asia,2012,2.27
-Maldives,Asia,2012,4.94
-Myanmar,Asia,2012,-4.3
-Nepal,Asia,2012,0.85
-Occ.Pal.Terr,Asia,2012,-0.43
-Oman,Asia,2012,9.11
-Pakistan,Asia,2012,0.27
-Philippines,Asia,2012,1.29
-Singapore,Asia,2012,1.75
-Sri Lanka,Asia,2012,-4.71
-Thailand,Asia,2012,4.09
-United Arab Emirates,Asia,2012,11.24
-Vietnam,Asia,2012,3.24
-Yemen,Asia,2012,5.93
-Afghanistan,Asia,2013,17.42
-Bahrain,Asia,2013,14.31
-Bangladesh,Asia,2013,-1.19
-Brunei,Asia,2013,0.56
-Cambodia,Asia,2013,5
-China,Asia,2013,3.56
-"Hong Kong, China",Asia,2013,5.96
-India,Asia,2013,-2.37
-Indonesia,Asia,2013,-1.33
-Israel,Asia,2013,-0.77
-Japan,Asia,2013,-3.03
-Jordan,Asia,2013,2.05
-Kazakhstan,Asia,2013,4.68
-"Korea, Rep.",Asia,2013,-0.39
-Kyrgyz Republic,Asia,2013,5.52
-Lao PDR,Asia,2013,16.94
-Lebanon,Asia,2013,0.21
-Macao,Asia,2013,7.11
-Malaysia,Asia,2013,2.42
-Maldives,Asia,2013,5.59
-Myanmar,Asia,2013,23.69
-Nepal,Asia,2013,3.55
-Occ.Pal.Terr,Asia,2013,4.85
-Oman,Asia,2013,10.5
-Pakistan,Asia,2013,-0.04
-Philippines,Asia,2013,0.27
-Qatar,Asia,2013,3.22
-Singapore,Asia,2013,0.29
-Sri Lanka,Asia,2013,0.13
-Thailand,Asia,2013,0.63
-United Arab Emirates,Asia,2013,6.3
-Vietnam,Asia,2013,7.72
-Yemen,Asia,2013,8.57
-Afghanistan,Asia,2014,-5.14
-Bahrain,Asia,2014,3.84
-Brunei,Asia,2014,-0.19
-Cambodia,Asia,2014,8.57
-China,Asia,2014,0.24
-"Hong Kong, China",Asia,2014,-1.69
-India,Asia,2014,-0.72
-Indonesia,Asia,2014,-2.29
-"Iran, Islamic Rep.",Asia,2014,3.87
-Israel,Asia,2014,0.23
-Japan,Asia,2014,-1.27
-Jordan,Asia,2014,2.73
-Kazakhstan,Asia,2014,-8.01
-"Korea, Rep.",Asia,2014,0.96
-Kuwait,Asia,2014,3.06
-Kyrgyz Republic,Asia,2014,-2.55
-Lao PDR,Asia,2014,11.95
-Lebanon,Asia,2014,-1.77
-Macao,Asia,2014,5.14
-Malaysia,Asia,2014,0.73
-Maldives,Asia,2014,7.22
-Mongolia,Asia,2014,-10.16
-Myanmar,Asia,2014,16.26
-Nepal,Asia,2014,8.46
-Occ.Pal.Terr,Asia,2014,4.91
-Oman,Asia,2014,-7.61
-Pakistan,Asia,2014,4.22
-Philippines,Asia,2014,1.52
-Qatar,Asia,2014,6.47
-Singapore,Asia,2014,-1.31
-Sri Lanka,Asia,2014,3.6
-Thailand,Asia,2014,-4.65
-United Arab Emirates,Asia,2014,0.62
-Vietnam,Asia,2014,5.82
-Yemen,Asia,2014,-4.75
-Afghanistan,Asia,2015,0.17
-Bahrain,Asia,2015,-9.64
-Brunei,Asia,2015,-5.28
-Cambodia,Asia,2015,4.86
-China,Asia,2015,-7.41
-"Hong Kong, China",Asia,2015,-3.5
-India,Asia,2015,-7.77
-Indonesia,Asia,2015,-10.51
-"Iran, Islamic Rep.",Asia,2015,-12.46
-Israel,Asia,2015,-7.37
-Japan,Asia,2015,-12.24
-Jordan,Asia,2015,-5.11
-Kazakhstan,Asia,2015,-13.96
-"Korea, Rep.",Asia,2015,-8.87
-Kuwait,Asia,2015,-0.85
-Kyrgyz Republic,Asia,2015,-15.38
-Lao PDR,Asia,2015,-7.88
-Lebanon,Asia,2015,-4.72
-Macao,Asia,2015,-3.17
-Malaysia,Asia,2015,-8.15
-Maldives,Asia,2015,-2.44
-Mongolia,Asia,2015,-13.98
-Myanmar,Asia,2015,2.08
-Nepal,Asia,2015,-6.66
-Occ.Pal.Terr,Asia,2015,-4.11
-Oman,Asia,2015,-0.51
-Pakistan,Asia,2015,-3.81
-Philippines,Asia,2015,1.78
-Qatar,Asia,2015,3.49
-Singapore,Asia,2015,-9.71
-Sri Lanka,Asia,2015,-0.72
-Thailand,Asia,2015,-5.71
-United Arab Emirates,Asia,2015,-1.96
-Vietnam,Asia,2015,5.89
-Yemen,Asia,2015,-26.12
-Afghanistan,Asia,2016,-8.02
-Bahrain,Asia,2016,-5.14
-Brunei,Asia,2016,-8.92
-Cambodia,Asia,2016,7.68
-China,Asia,2016,-2.77
-"Hong Kong, China",Asia,2016,-1.09
-India,Asia,2016,-4.46
-Indonesia,Asia,2016,-2.5
-"Iran, Islamic Rep.",Asia,2016,3.27
-Israel,Asia,2016,2.96
-Japan,Asia,2016,-1.5
-Jordan,Asia,2016,-3.15
-Kazakhstan,Asia,2016,-9.25
-"Korea, Rep.",Asia,2016,-3.53
-Kuwait,Asia,2016,-0.28
-Kyrgyz Republic,Asia,2016,-2.79
-Lao PDR,Asia,2016,4.26
-Lebanon,Asia,2016,0.28
-Macao,Asia,2016,-8.25
-Malaysia,Asia,2016,-2.24
-Maldives,Asia,2016,5.92
-Mongolia,Asia,2016,-6.21
-Myanmar,Asia,2016,-3.67
-Nepal,Asia,2016,15.88
-Occ.Pal.Terr,Asia,2016,1.31
-Oman,Asia,2016,-10.67
-Pakistan,Asia,2016,3.36
-Philippines,Asia,2016,10.66
-Qatar,Asia,2016,-0.85
-Singapore,Asia,2016,-2.67
-Sri Lanka,Asia,2016,1.4
-Thailand,Asia,2016,-2.11
-United Arab Emirates,Asia,2016,-2.87
-Vietnam,Asia,2016,2.74
-Afghanistan,Asia,2017,9.21
-Bahrain,Asia,2017,8.59
-Brunei,Asia,2017,7.31
-Cambodia,Asia,2017,7.45
-China,Asia,2017,7.76
-"Hong Kong, China",Asia,2017,3.78
-India,Asia,2017,11.57
-Indonesia,Asia,2017,7.58
-"Iran, Islamic Rep.",Asia,2017,9.94
-Israel,Asia,2017,2.49
-Japan,Asia,2017,5.22
-Jordan,Asia,2017,3.08
-Kazakhstan,Asia,2017,8.43
-"Korea, Rep.",Asia,2017,8.53
-Kuwait,Asia,2017,4.47
-Kyrgyz Republic,Asia,2017,8.04
-Lao PDR,Asia,2017,12.08
-Lebanon,Asia,2017,174
-Macao,Asia,2017,3.07
-Malaysia,Asia,2017,7.54
-Maldives,Asia,2017,5.3
-Mongolia,Asia,2017,13.96
-Myanmar,Asia,2017,10.76
-Nepal,Asia,2017,6.33
-Occ.Pal.Terr,Asia,2017,4.47
-Oman,Asia,2017,6.87
-Pakistan,Asia,2017,10.55
-Philippines,Asia,2017,8.9
-Qatar,Asia,2017,-3.43
-Singapore,Asia,2017,5.96
-Sri Lanka,Asia,2017,4.55
-Tajikistan,Asia,2017,-4.34
-Thailand,Asia,2017,6.8
-United Arab Emirates,Asia,2017,-2.44
-Vietnam,Asia,2017,10.39
-Afghanistan,Asia,2018,-2.51
-Bahrain,Asia,2018,8.83
-Brunei,Asia,2018,16.19
-Cambodia,Asia,2018,10.65
-China,Asia,2018,7.57
-"Hong Kong, China",Asia,2018,3.17
-India,Asia,2018,17.97
-Indonesia,Asia,2018,9.64
-"Iran, Islamic Rep.",Asia,2018,-10.62
-Israel,Asia,2018,5.26
-Japan,Asia,2018,5.55
-Jordan,Asia,2018,-0.24
-Kazakhstan,Asia,2018,6.14
-"Korea, Rep.",Asia,2018,5.76
-Kuwait,Asia,2018,3.32
-Kyrgyz Republic,Asia,2018,8.6
-Lao PDR,Asia,2018,6.46
-Lebanon,Asia,2018,-62.28
+Libya,Africa,2017,-5.89
+Lithuania,Europe,2021,15.55
+Lithuania,Europe,2018,8.55
+Lithuania,Europe,2017,6.35
+Lithuania,Europe,2019,-1.02
+Lithuania,Europe,2016,-1.4
+Lithuania,Europe,2020,-3.48
+Lithuania,Europe,2015,-10.55
+Luxembourg,Europe,2021,10.58
+Luxembourg,Europe,2017,4.93
+Luxembourg,Europe,2018,4.79
+Luxembourg,Europe,2016,-0.45
+Luxembourg,Europe,2019,-0.97
+Luxembourg,Europe,2020,-4.03
+Luxembourg,Europe,2015,-10.05
+Macao,Asia,2021,27.24
 Macao,Asia,2018,8.6
-Malaysia,Asia,2018,5.81
-Maldives,Asia,2018,12.02
-Mongolia,Asia,2018,16.38
-Myanmar,Asia,2018,0.26
-Nepal,Asia,2018,13.18
-Occ.Pal.Terr,Asia,2018,5.7
-Oman,Asia,2018,-1.26
-Pakistan,Asia,2018,2.34
-Philippines,Asia,2018,6.26
-Qatar,Asia,2018,2.97
-Singapore,Asia,2018,6.33
-Tajikistan,Asia,2018,6.42
-Thailand,Asia,2018,6.06
-United Arab Emirates,Asia,2018,-2.56
-Uzbekistan,Asia,2018,19.94
-Vietnam,Asia,2018,5.4
-Afghanistan,Asia,2019,7.56
-Bahrain,Asia,2019,-5
-Brunei,Asia,2019,10.7
-Cambodia,Asia,2019,7.68
-China,Asia,2019,-1.28
-"Hong Kong, China",Asia,2019,-3.96
-India,Asia,2019,-11.97
-Indonesia,Asia,2019,-4.73
-Israel,Asia,2019,0
-Japan,Asia,2019,-1.85
-Jordan,Asia,2019,-2.43
-Kazakhstan,Asia,2019,9.12
-"Korea, Rep.",Asia,2019,-3.03
-Kuwait,Asia,2019,-3.31
-Kyrgyz Republic,Asia,2019,-2.91
-Lao PDR,Asia,2019,-0.43
-Lebanon,Asia,2019,-1.88
 Macao,Asia,2019,3.7
-Malaysia,Asia,2019,-3.02
-Maldives,Asia,2019,-1.26
-Mongolia,Asia,2019,2.13
-Myanmar,Asia,2019,-1.94
-Nepal,Asia,2019,-2.09
-Occ.Pal.Terr,Asia,2019,0.56
-Oman,Asia,2019,-4.49
-Pakistan,Asia,2019,-8.78
-Philippines,Asia,2019,0.96
-Qatar,Asia,2019,-4.05
-Singapore,Asia,2019,-1.57
-Tajikistan,Asia,2019,2.91
-Thailand,Asia,2019,-6.72
-United Arab Emirates,Asia,2019,8.57
-Uzbekistan,Asia,2019,12.38
-Vietnam,Asia,2019,3.44
-Yemen,Asia,2019,19.38
-Bahrain,Asia,2020,-8.81
-Brunei,Asia,2020,2.32
-Cambodia,Asia,2020,-2.91
-China,Asia,2020,-0.23
-"Hong Kong, China",Asia,2020,-0.48
-India,Asia,2020,-12.34
-Indonesia,Asia,2020,-9.08
-Israel,Asia,2020,-4.9
-Japan,Asia,2020,-6.13
-Jordan,Asia,2020,-6.22
-Kazakhstan,Asia,2020,-0.99
-"Korea, Rep.",Asia,2020,-3.61
-Kuwait,Asia,2020,-8.06
-Kyrgyz Republic,Asia,2020,-17.61
-Lao PDR,Asia,2020,-7.01
-Lebanon,Asia,2020,-23.18
+Macao,Asia,2017,3.07
 Macao,Asia,2020,-0.31
+Macao,Asia,2015,-3.17
+Macao,Asia,2016,-8.25
+Madagascar,Africa,2021,17.01
+Madagascar,Africa,2017,11.29
+Madagascar,Africa,2018,4.63
+Madagascar,Africa,2016,0
+Madagascar,Africa,2019,-1.37
+Madagascar,Africa,2015,-5.36
+Madagascar,Africa,2020,-9.21
+Malawi,Africa,2021,7.12
+Malawi,Africa,2017,6.39
+Malawi,Africa,2019,3.76
+Malawi,Africa,2018,2.62
+Malawi,Africa,2016,-0.35
+Malawi,Africa,2020,-3.77
+Malawi,Africa,2015,-9.2
+Malaysia,Asia,2021,11.86
+Malaysia,Asia,2017,7.54
+Malaysia,Asia,2018,5.81
+Malaysia,Asia,2016,-2.24
+Malaysia,Asia,2019,-3.02
 Malaysia,Asia,2020,-3.63
+Malaysia,Asia,2015,-8.15
+Maldives,Asia,2018,12.02
+Maldives,Asia,2016,5.92
+Maldives,Asia,2017,5.3
+Maldives,Asia,2019,-1.26
+Maldives,Asia,2015,-2.44
+Mali,Africa,2017,6.19
+Mali,Africa,2019,4.54
+Mali,Africa,2018,3.21
+Malta,Europe,2021,11.57
+Malta,Europe,2019,6.76
+Malta,Europe,2016,2.86
+Malta,Europe,2018,2.72
+Malta,Europe,2017,-2.5
+Malta,Europe,2015,-10.35
+Malta,Europe,2020,-16.42
+Mauritania,Africa,2017,27.29
+Mauritania,Africa,2021,18.61
+Mauritania,Africa,2019,5.16
+Mauritania,Africa,2015,0.84
+Mauritania,Africa,2018,-4.94
+Mauritania,Africa,2020,-11.7
+Mauritania,Africa,2016,-23.39
+Mauritius,Africa,2021,10.39
+Mauritius,Africa,2017,6.4
+Mauritius,Africa,2018,3.72
+Mauritius,Africa,2016,2.18
+Mauritius,Africa,2019,-0.6
+Mauritius,Africa,2015,-10.83
+Mauritius,Africa,2020,-13.16
+Mexico,North America,2021,15.01
+Mexico,North America,2018,5.09
+Mexico,North America,2017,4.21
+Mexico,North America,2015,-0.59
+Mexico,North America,2019,-0.98
+Mexico,North America,2016,-1.04
+Mexico,North America,2020,-8.28
+Moldova,Europe,2021,15.11
+Moldova,Europe,2017,9.62
+Moldova,Europe,2018,9.23
+Moldova,Europe,2019,0.68
+Moldova,Europe,2016,0.42
+Moldova,Europe,2020,-3.72
+Moldova,Europe,2015,-13.41
+Mongolia,Asia,2018,16.38
+Mongolia,Asia,2017,13.96
+Mongolia,Asia,2021,13.65
+Mongolia,Asia,2019,2.13
+Mongolia,Asia,2016,-6.21
 Mongolia,Asia,2020,-7.01
+Mongolia,Asia,2015,-13.98
+Montenegro,Europe,2021,10.92
+Montenegro,Europe,2018,7.25
+Montenegro,Europe,2017,6.94
+Montenegro,Europe,2016,5.51
+Montenegro,Europe,2019,-1.58
+Montenegro,Europe,2015,-6.93
+Montenegro,Europe,2020,-9.27
+Montserrat,North America,2016,10.2
+Montserrat,North America,2018,8.65
+Montserrat,North America,2020,-2.97
+Montserrat,North America,2019,-4.35
+Montserrat,North America,2017,-8.49
+Montserrat,North America,2015,-15.89
+Morocco,Africa,2021,14.8
+Morocco,Africa,2018,6.72
+Morocco,Africa,2016,4.55
+Morocco,Africa,2017,3.93
+Morocco,Africa,2019,-0.24
+Morocco,Africa,2020,-6.61
+Morocco,Africa,2015,-9.13
+Mozambique,Africa,2021,15.73
+Mozambique,Africa,2018,9.09
+Mozambique,Africa,2019,6.1
+Mozambique,Africa,2017,3.77
+Mozambique,Africa,2015,-4.9
+Mozambique,Africa,2020,-8.2
+Mozambique,Africa,2016,-18.17
+Myanmar,Asia,2017,10.76
+Myanmar,Asia,2015,2.08
+Myanmar,Asia,2018,0.26
 Myanmar,Asia,2020,-1.75
+Myanmar,Asia,2019,-1.94
+Myanmar,Asia,2016,-3.67
+Myanmar,Asia,2021,-10.71
+Namibia,Africa,2021,26.92
+Namibia,Africa,2018,10.58
+Namibia,Africa,2017,0.42
+Namibia,Africa,2019,-1.23
+Namibia,Africa,2015,-5.01
+Namibia,Africa,2016,-6.56
+Namibia,Africa,2020,-8.14
+Nepal,Asia,2021,27.45
+Nepal,Asia,2016,15.88
+Nepal,Asia,2018,13.18
+Nepal,Asia,2017,6.33
+Nepal,Asia,2019,-2.09
+Nepal,Asia,2015,-6.66
 Nepal,Asia,2020,-11.08
+Netherlands,Europe,2021,13.48
+Netherlands,Europe,2017,6.39
+Netherlands,Europe,2018,6.21
+Netherlands,Europe,2016,-0.56
+Netherlands,Europe,2019,-0.6
+Netherlands,Europe,2020,-3.03
+Netherlands,Europe,2015,-9.89
+New Caledonia,Oceania,2015,-12.65
+New Zealand,Oceania,2021,16.05
+New Zealand,Oceania,2017,5.51
+New Zealand,Oceania,2018,4.34
+New Zealand,Oceania,2016,-0.67
+New Zealand,Oceania,2019,-1.63
+New Zealand,Oceania,2020,-7.02
+New Zealand,Oceania,2015,-7.3
+Nicaragua,North America,2021,22.53
+Nicaragua,North America,2016,12.89
+Nicaragua,North America,2017,1.51
+Nicaragua,North America,2015,1.04
+Nicaragua,North America,2018,-2.32
+Nicaragua,North America,2019,-2.52
+Nicaragua,North America,2020,-3.2
+Niger,Africa,2018,22.55
+Niger,Africa,2015,6.9
+Niger,Africa,2020,4.55
+Niger,Africa,2019,2.32
+Niger,Africa,2017,-2.76
+Niger,Africa,2016,-12.94
+Niger,Africa,2021,-16.19
+Nigeria,Africa,2018,17.28
+Nigeria,Africa,2020,8.2
+Nigeria,Africa,2019,4.94
+Nigeria,Africa,2016,2
+Nigeria,Africa,2021,-3.1
+Nigeria,Africa,2017,-5.74
+Nigeria,Africa,2015,-14.73
+North Macedonia,Europe,2021,14.36
+North Macedonia,Europe,2018,8.21
+North Macedonia,Europe,2017,6.96
+North Macedonia,Europe,2016,2.54
+North Macedonia,Europe,2019,2.15
+North Macedonia,Europe,2020,-3.98
+North Macedonia,Europe,2015,-6.18
+Norway,Europe,2021,10.27
+Norway,Europe,2017,8.38
+Norway,Europe,2018,1.11
+Norway,Europe,2019,-0.74
+Norway,Europe,2016,-2.38
+Norway,Europe,2020,-2.66
+Norway,Europe,2015,-7.58
+Occ.Pal.Terr,Asia,2021,13.63
+Occ.Pal.Terr,Asia,2018,5.7
+Occ.Pal.Terr,Asia,2017,4.47
+Occ.Pal.Terr,Asia,2016,1.31
+Occ.Pal.Terr,Asia,2019,0.56
+Occ.Pal.Terr,Asia,2015,-4.11
 Occ.Pal.Terr,Asia,2020,-4.25
 Oman,Asia,2020,10.12
-Pakistan,Asia,2020,-4.38
-Philippines,Asia,2020,-9.95
-Qatar,Asia,2020,-5.9
-Singapore,Asia,2020,-4.32
-Sri Lanka,Asia,2020,-10.48
-Tajikistan,Asia,2020,-2.87
-Thailand,Asia,2020,-2.12
-United Arab Emirates,Asia,2020,-7.47
-Uzbekistan,Asia,2020,-4.32
-Vietnam,Asia,2020,1.54
-Bahrain,Asia,2021,-4.38
-Brunei,Asia,2021,26.69
-Cambodia,Asia,2021,22.54
-China,Asia,2021,13.89
-"Hong Kong, China",Asia,2021,11.56
-India,Asia,2021,24.5
-Indonesia,Asia,2021,17.72
-Israel,Asia,2021,15.35
-Japan,Asia,2021,10.25
-Jordan,Asia,2021,12.55
-Kazakhstan,Asia,2021,3.14
-"Korea, Rep.",Asia,2021,14.69
-Kuwait,Asia,2021,6.06
-Kyrgyz Republic,Asia,2021,28.36
-Lao PDR,Asia,2021,8.22
-Lebanon,Asia,2021,10.47
-Macao,Asia,2021,27.24
-Malaysia,Asia,2021,11.86
-Mongolia,Asia,2021,13.65
-Myanmar,Asia,2021,-10.71
-Nepal,Asia,2021,27.45
-Occ.Pal.Terr,Asia,2021,13.63
+Oman,Asia,2017,6.87
 Oman,Asia,2021,4.27
+Oman,Asia,2015,-0.51
+Oman,Asia,2018,-1.26
+Oman,Asia,2019,-4.49
+Oman,Asia,2016,-10.67
 Pakistan,Asia,2021,26.19
-Philippines,Asia,2021,14.39
-Qatar,Asia,2021,4.08
-Singapore,Asia,2021,11.24
-Sri Lanka,Asia,2021,17.38
-Tajikistan,Asia,2021,15.89
-Thailand,Asia,2021,13.64
-United Arab Emirates,Asia,2021,18.63
-Uzbekistan,Asia,2021,9.23
-Vietnam,Asia,2021,12.51
-Albania,Europe,2010,0.6
-Andorra,Europe,2010,-2.19
-Austria,Europe,2010,5.07
-Azerbaijan,Europe,2010,3.83
-Belarus,Europe,2010,10.5
-Belgium,Europe,2010,-10.69
-Bosnia and Herzegovina,Europe,2010,5.01
-Bulgaria,Europe,2010,4.24
-Croatia,Europe,2010,-2.72
-Cyprus,Europe,2010,4.39
-Czech Republic,Europe,2010,9.49
-Denmark,Europe,2010,1.63
-Estonia,Europe,2010,7.89
-Finland,Europe,2010,6.32
-France,Europe,2010,5.29
-Georgia,Europe,2010,8.16
-Germany,Europe,2010,6.86
-Greece,Europe,2010,-3.62
-Greenland,Europe,2010,4.39
-Hungary,Europe,2010,6.37
-Iceland,Europe,2010,4.22
-Ireland,Europe,2010,-30.68
-Italy,Europe,2010,8.31
-Latvia,Europe,2010,9.19
-Lithuania,Europe,2010,12.9
-Luxembourg,Europe,2010,4.25
-Malta,Europe,2010,19.2
-Moldova,Europe,2010,8.44
-Montenegro,Europe,2010,-2.88
-Netherlands,Europe,2010,7.3
-North Macedonia,Europe,2010,3.89
-Norway,Europe,2010,6.3
-Poland,Europe,2010,7.9
-Portugal,Europe,2010,4.01
-Romania,Europe,2010,6.82
-Russian Federation,Europe,2010,15.76
-"Serbia, FR(Serbia/Montenegro)",Europe,2010,2.12
-Slovak Republic,Europe,2010,9.09
-Slovenia,Europe,2010,5.48
-Spain,Europe,2010,5.2
-Sweden,Europe,2010,11.37
-Switzerland,Europe,2010,-7.87
-Turkey,Europe,2010,14.74
-Ukraine,Europe,2010,15.65
-United Kingdom,Europe,2010,6.63
-Albania,Europe,2011,8.27
-Andorra,Europe,2011,2.47
-Austria,Europe,2011,10.04
-Azerbaijan,Europe,2011,21.47
-Belarus,Europe,2011,14.53
-Belgium,Europe,2011,9.9
-Bosnia and Herzegovina,Europe,2011,9.46
-Bulgaria,Europe,2011,13.19
-Croatia,Europe,2011,6.39
-Cyprus,Europe,2011,0.83
-Czech Republic,Europe,2011,9.54
-Denmark,Europe,2011,7.73
-Estonia,Europe,2011,19.87
-Finland,Europe,2011,10.43
-France,Europe,2011,9.14
-Georgia,Europe,2011,16.22
-Germany,Europe,2011,9.06
-Greece,Europe,2011,0.18
-Greenland,Europe,2011,8.79
-Hungary,Europe,2011,7.68
-Iceland,Europe,2011,11.26
-Ireland,Europe,2011,6.87
-Italy,Europe,2011,7.12
-Latvia,Europe,2011,17.68
-Lithuania,Europe,2011,16.63
-Luxembourg,Europe,2011,12.83
-Malta,Europe,2011,13.59
-Moldova,Europe,2011,16.04
-Montenegro,Europe,2011,7.98
-Netherlands,Europe,2011,7.42
-North Macedonia,Europe,2011,13.3
-Norway,Europe,2011,8.35
-Poland,Europe,2011,9.61
-Portugal,Europe,2011,3.32
-Romania,Europe,2011,10.98
-Russian Federation,Europe,2011,15.64
-"Serbia, FR(Serbia/Montenegro)",Europe,2011,8.94
-Slovak Republic,Europe,2011,9.56
-Slovenia,Europe,2011,8.38
-Spain,Europe,2011,7.26
-Sweden,Europe,2011,9.05
-Switzerland,Europe,2011,8.68
-Turkey,Europe,2011,13.93
-Ukraine,Europe,2011,16.62
-United Kingdom,Europe,2011,6.93
-Albania,Europe,2012,-4.9
-Andorra,Europe,2012,-6.38
-Austria,Europe,2012,-3.54
-Azerbaijan,Europe,2012,-0.47
-Belarus,Europe,2012,0.7
-Belgium,Europe,2012,-3.45
-Bosnia and Herzegovina,Europe,2012,-4.78
-Bulgaria,Europe,2012,0.38
-Croatia,Europe,2012,-4.23
-Cyprus,Europe,2012,-8.38
-Czech Republic,Europe,2012,-3.75
-Denmark,Europe,2012,-2.47
-Estonia,Europe,2012,2.88
-Finland,Europe,2012,-4.75
-France,Europe,2012,-3.35
-Georgia,Europe,2012,6.72
-Germany,Europe,2012,-3.97
-Greece,Europe,2012,-3.19
-Greenland,Europe,2012,-7.35
-Hungary,Europe,2012,-3.55
-Iceland,Europe,2012,-0.76
-Ireland,Europe,2012,-1.07
-Italy,Europe,2012,-6.45
-Latvia,Europe,2012,2.09
-Lithuania,Europe,2012,0.68
-Luxembourg,Europe,2012,-3.3
-Malta,Europe,2012,3.33
-Moldova,Europe,2012,0.21
-Montenegro,Europe,2012,-4.17
-Netherlands,Europe,2012,-0.7
-North Macedonia,Europe,2012,-3.66
-Norway,Europe,2012,-1.93
-Poland,Europe,2012,-4.34
-Portugal,Europe,2012,-6.49
-Romania,Europe,2012,-4.08
-Russian Federation,Europe,2012,1.64
-"Serbia, FR(Serbia/Montenegro)",Europe,2012,-2.39
-Slovak Republic,Europe,2012,-1.58
-Slovenia,Europe,2012,-4.68
-Spain,Europe,2012,-4.81
-Sweden,Europe,2012,-3.57
-Switzerland,Europe,2012,19.04
-Turkey,Europe,2012,-0.9
-Ukraine,Europe,2012,1.23
-United Kingdom,Europe,2012,-2
-Albania,Europe,2013,0.01
-Andorra,Europe,2013,2.42
-Austria,Europe,2013,1.09
-Azerbaijan,Europe,2013,5.66
-Belarus,Europe,2013,-3.71
-Belgium,Europe,2013,1.49
-Bosnia and Herzegovina,Europe,2013,1.37
-Bulgaria,Europe,2013,2.37
-Croatia,Europe,2013,2.6
-Cyprus,Europe,2013,-6.75
-Czech Republic,Europe,2013,1
-Denmark,Europe,2013,3.19
-Estonia,Europe,2013,0.29
-Finland,Europe,2013,0.98
-France,Europe,2013,0.34
-Georgia,Europe,2013,-0.2
-Germany,Europe,2013,1.02
-Greece,Europe,2013,-1.09
-Greenland,Europe,2013,5.37
-Hungary,Europe,2013,2.61
-Iceland,Europe,2013,2.56
-Ireland,Europe,2013,1.29
-Italy,Europe,2013,-1
-Latvia,Europe,2013,2.14
-Lithuania,Europe,2013,3.92
-Luxembourg,Europe,2013,-0.72
-Malta,Europe,2013,-2.38
-Moldova,Europe,2013,2.65
-Montenegro,Europe,2013,0.27
-Netherlands,Europe,2013,1.24
-North Macedonia,Europe,2013,0.74
-Norway,Europe,2013,1.42
-Poland,Europe,2013,3.64
-Portugal,Europe,2013,2.19
-Romania,Europe,2013,2.25
-Russian Federation,Europe,2013,-0.2
-"Serbia, FR(Serbia/Montenegro)",Europe,2013,4.21
-Slovak Republic,Europe,2013,2.86
-Slovenia,Europe,2013,1.73
-Spain,Europe,2013,0.54
-Sweden,Europe,2013,-1.21
-Switzerland,Europe,2013,4.31
-Turkey,Europe,2013,5.01
-Ukraine,Europe,2013,-4.64
-United Kingdom,Europe,2013,-2.34
-Albania,Europe,2014,3.52
-Andorra,Europe,2014,2.29
-Austria,Europe,2014,-0.27
-Azerbaijan,Europe,2014,-7.66
-Belarus,Europe,2014,-2.97
-Belgium,Europe,2014,0.07
-Bosnia and Herzegovina,Europe,2014,3.32
-Bulgaria,Europe,2014,0.62
-Croatia,Europe,2014,2.2
-Cyprus,Europe,2014,12.12
-Czech Republic,Europe,2014,3.69
-Denmark,Europe,2014,1.18
-Estonia,Europe,2014,0
-Finland,Europe,2014,-0.53
-France,Europe,2014,-0.85
-Georgia,Europe,2014,3.55
-Germany,Europe,2014,1.16
-Greece,Europe,2014,0.84
-Greenland,Europe,2014,-4.92
-Hungary,Europe,2014,2.43
-Iceland,Europe,2014,3.45
-Ireland,Europe,2014,5.57
-Italy,Europe,2014,-0.55
-Latvia,Europe,2014,1.03
-Lithuania,Europe,2014,0.58
-Luxembourg,Europe,2014,-0.18
-Malta,Europe,2014,5.94
-Moldova,Europe,2014,-1.61
-Montenegro,Europe,2014,0.38
-Netherlands,Europe,2014,-0.48
-North Macedonia,Europe,2014,5.02
-Norway,Europe,2014,-0.21
-Poland,Europe,2014,2.66
-Portugal,Europe,2014,1.76
-Romania,Europe,2014,2.98
-Russian Federation,Europe,2014,-4.6
-"Serbia, FR(Serbia/Montenegro)",Europe,2014,0.14
-Slovak Republic,Europe,2014,0.25
-Slovenia,Europe,2014,1.14
-Spain,Europe,2014,2.58
-Sweden,Europe,2014,0.52
-Switzerland,Europe,2014,-7.39
-Turkey,Europe,2014,-1.87
-Ukraine,Europe,2014,-15.95
-United Kingdom,Europe,2014,2.79
-Albania,Europe,2015,-9.11
-Andorra,Europe,2015,-8.82
-Austria,Europe,2015,-7.38
-Azerbaijan,Europe,2015,0.19
-Belarus,Europe,2015,-13.52
-Belgium,Europe,2015,-11.27
-Bosnia and Herzegovina,Europe,2015,-9.54
-Bulgaria,Europe,2015,-8.22
-Croatia,Europe,2015,-5.21
-Cyprus,Europe,2015,-5.91
-Czech Republic,Europe,2015,-4.17
-Denmark,Europe,2015,-7.43
-Estonia,Europe,2015,-11.72
-Finland,Europe,2015,-11.47
-France,Europe,2015,-7.6
-Georgia,Europe,2015,-7.85
-Germany,Europe,2015,-6.7
-Greece,Europe,2015,-12.82
-Greenland,Europe,2015,-12.14
-Hungary,Europe,2015,-6.66
-Iceland,Europe,2015,-0.81
-Ireland,Europe,2015,-2.94
-Italy,Europe,2015,-6.9
-Latvia,Europe,2015,-9.28
-Lithuania,Europe,2015,-10.55
-Luxembourg,Europe,2015,-10.05
-Malta,Europe,2015,-10.35
-Moldova,Europe,2015,-13.41
-Montenegro,Europe,2015,-6.93
-Netherlands,Europe,2015,-9.89
-North Macedonia,Europe,2015,-6.18
-Norway,Europe,2015,-7.58
-Poland,Europe,2015,-6.44
-Portugal,Europe,2015,-7.62
-Romania,Europe,2015,-5.3
-Russian Federation,Europe,2015,-20.15
-"Serbia, FR(Serbia/Montenegro)",Europe,2015,-6
-Slovak Republic,Europe,2015,-5.1
-Slovenia,Europe,2015,-7.21
-Spain,Europe,2015,-7.06
-Sweden,Europe,2015,-7.78
-Switzerland,Europe,2015,-4.49
-Turkey,Europe,2015,-7.77
-Ukraine,Europe,2015,-16.94
-United Kingdom,Europe,2015,-4.73
-Albania,Europe,2016,3.96
-Andorra,Europe,2016,2.31
-Austria,Europe,2016,0.69
-Azerbaijan,Europe,2016,-4.11
-Belarus,Europe,2016,-4.53
-Belgium,Europe,2016,3.49
-Bosnia and Herzegovina,Europe,2016,0.82
-Bulgaria,Europe,2016,-0.53
-Croatia,Europe,2016,2.99
-Cyprus,Europe,2016,5.02
-Czech Republic,Europe,2016,0.57
-Denmark,Europe,2016,-0.53
-Estonia,Europe,2016,-0.16
-Finland,Europe,2016,0.27
-France,Europe,2016,-0.25
-Georgia,Europe,2016,0.26
-Germany,Europe,2016,0.16
-Greece,Europe,2016,0.35
-Greenland,Europe,2016,4.89
-Hungary,Europe,2016,0.8
-Iceland,Europe,2016,3.88
-Ireland,Europe,2016,2.82
-Italy,Europe,2016,-0.52
-Latvia,Europe,2016,-1.28
-Lithuania,Europe,2016,-1.4
-Luxembourg,Europe,2016,-0.45
-Malta,Europe,2016,2.86
-Moldova,Europe,2016,0.42
-Montenegro,Europe,2016,5.51
-Netherlands,Europe,2016,-0.56
-North Macedonia,Europe,2016,2.54
-Norway,Europe,2016,-2.38
-Poland,Europe,2016,-0.31
-Portugal,Europe,2016,0.78
-Romania,Europe,2016,3.34
-Russian Federation,Europe,2016,6.53
-"Serbia, FR(Serbia/Montenegro)",Europe,2016,2.76
-Slovak Republic,Europe,2016,1.25
-Slovenia,Europe,2016,1.57
-Spain,Europe,2016,-0.29
-Sweden,Europe,2016,0.98
-Switzerland,Europe,2016,3.54
-Turkey,Europe,2016,-2.71
-Ukraine,Europe,2016,2.28
-United Kingdom,Europe,2016,0.48
-Albania,Europe,2017,6.36
-Andorra,Europe,2017,4.49
-Austria,Europe,2017,5.35
-Azerbaijan,Europe,2017,1.73
-Belarus,Europe,2017,11.35
-Belgium,Europe,2017,5.1
-Bosnia and Herzegovina,Europe,2017,7.04
-Bulgaria,Europe,2017,8.78
-Croatia,Europe,2017,5.97
-Cyprus,Europe,2017,8.73
-Czech Republic,Europe,2017,6.98
-Denmark,Europe,2017,4.46
-Estonia,Europe,2017,5.25
-Finland,Europe,2017,7.64
-France,Europe,2017,4.58
-Georgia,Europe,2017,4.76
-Germany,Europe,2017,2.73
-Greece,Europe,2017,7.79
-Greenland,Europe,2017,1.81
-Hungary,Europe,2017,6.35
-Iceland,Europe,2017,10.56
-Ireland,Europe,2017,6.74
-Italy,Europe,2017,5.61
-Latvia,Europe,2017,8.1
-Lithuania,Europe,2017,6.35
-Luxembourg,Europe,2017,4.93
-Malta,Europe,2017,-2.5
-Moldova,Europe,2017,9.62
-Montenegro,Europe,2017,6.94
-Netherlands,Europe,2017,6.39
-North Macedonia,Europe,2017,6.96
-Norway,Europe,2017,8.38
-Poland,Europe,2017,7.53
-Portugal,Europe,2017,7.65
-Romania,Europe,2017,6.94
-Russian Federation,Europe,2017,11.95
-"Serbia, FR(Serbia/Montenegro)",Europe,2017,7.31
-Slovak Republic,Europe,2017,4.52
-Slovenia,Europe,2017,8.03
-Spain,Europe,2017,6.16
-Sweden,Europe,2017,4.6
-Switzerland,Europe,2017,-0.33
-Turkey,Europe,2017,8.66
-Ukraine,Europe,2017,12.23
-United Kingdom,Europe,2017,0.36
-Albania,Europe,2018,6.06
-Andorra,Europe,2018,4.34
-Austria,Europe,2018,5.19
-Azerbaijan,Europe,2018,14.33
-Belarus,Europe,2018,5.92
-Belgium,Europe,2018,5.43
-Bosnia and Herzegovina,Europe,2018,5.37
-Bulgaria,Europe,2018,5.21
-Croatia,Europe,2018,7.09
-Cyprus,Europe,2018,7.78
-Czech Republic,Europe,2018,6.55
-Denmark,Europe,2018,5.07
-Estonia,Europe,2018,6.83
-Finland,Europe,2018,5.72
-France,Europe,2018,3.7
-Georgia,Europe,2018,7.79
-Germany,Europe,2018,7.45
-Greece,Europe,2018,8.53
-Greenland,Europe,2018,4.43
-Hungary,Europe,2018,6.09
-Iceland,Europe,2018,5.01
-Ireland,Europe,2018,7.68
-Italy,Europe,2018,5.37
-Latvia,Europe,2018,7.68
-Lithuania,Europe,2018,8.55
-Luxembourg,Europe,2018,4.79
-Malta,Europe,2018,2.72
-Moldova,Europe,2018,9.23
-Montenegro,Europe,2018,7.25
-Netherlands,Europe,2018,6.21
-North Macedonia,Europe,2018,8.21
-Norway,Europe,2018,1.11
-Poland,Europe,2018,10.82
-Portugal,Europe,2018,10.2
-Romania,Europe,2018,7.11
-Russian Federation,Europe,2018,-3.87
-"Serbia, FR(Serbia/Montenegro)",Europe,2018,8.11
-Slovak Republic,Europe,2018,6.57
-Slovenia,Europe,2018,7.9
-Spain,Europe,2018,7.02
-Sweden,Europe,2018,5.17
-Switzerland,Europe,2018,2.07
-Turkey,Europe,2018,-1.6
-Ukraine,Europe,2018,7.55
-United Kingdom,Europe,2018,2.37
-Albania,Europe,2019,-0.28
-Andorra,Europe,2019,-2.22
-Austria,Europe,2019,-2.08
-Azerbaijan,Europe,2019,9.13
-Belarus,Europe,2019,1.38
-Belgium,Europe,2019,-3.19
-Bosnia and Herzegovina,Europe,2019,-2.04
-Bulgaria,Europe,2019,-0.21
-Croatia,Europe,2019,-0.19
-Cyprus,Europe,2019,-7.86
-Czech Republic,Europe,2019,-1.54
-Denmark,Europe,2019,-2.33
-Estonia,Europe,2019,-2.96
-Finland,Europe,2019,-3
-France,Europe,2019,-1.23
-Georgia,Europe,2019,0.84
-Germany,Europe,2019,-2.06
-Greece,Europe,2019,-2.29
-Hungary,Europe,2019,-0.02
-Iceland,Europe,2019,-7.48
-Ireland,Europe,2019,-3.15
-Italy,Europe,2019,-2.88
-Latvia,Europe,2019,-2.3
-Lithuania,Europe,2019,-1.02
-Luxembourg,Europe,2019,-0.97
-Malta,Europe,2019,6.76
-Moldova,Europe,2019,0.68
-Montenegro,Europe,2019,-1.58
-Netherlands,Europe,2019,-0.6
-North Macedonia,Europe,2019,2.15
-Norway,Europe,2019,-0.74
-Poland,Europe,2019,-4.01
-Portugal,Europe,2019,-3.24
-Romania,Europe,2019,-0.63
-Russian Federation,Europe,2019,1.43
-"Serbia, FR(Serbia/Montenegro)",Europe,2019,1.62
-Slovak Republic,Europe,2019,-1.12
-Slovenia,Europe,2019,2.58
-Spain,Europe,2019,-2.01
-Sweden,Europe,2019,-3.37
-Switzerland,Europe,2019,-0.41
-Turkey,Europe,2019,-4.61
-Ukraine,Europe,2019,3.11
-United Kingdom,Europe,2019,1.54
-Albania,Europe,2020,-4.3
-Andorra,Europe,2020,-1.45
-Austria,Europe,2020,-3.45
-Azerbaijan,Europe,2020,-11.33
-Belarus,Europe,2020,-8.89
-Belgium,Europe,2020,-3.92
-Bosnia and Herzegovina,Europe,2020,-5.96
-Bulgaria,Europe,2020,-3.69
-Croatia,Europe,2020,-3.47
-Cyprus,Europe,2020,-2.49
-Czech Republic,Europe,2020,-2.21
-Denmark,Europe,2020,-0.64
-Estonia,Europe,2020,-2.46
-Finland,Europe,2020,-3.77
-France,Europe,2020,-4.81
-Georgia,Europe,2020,-8.02
-Germany,Europe,2020,-2.73
-Greece,Europe,2020,-5.51
-Hungary,Europe,2020,-1.68
-Iceland,Europe,2020,-6.95
-Ireland,Europe,2020,-1.21
-Italy,Europe,2020,-5.24
-Latvia,Europe,2020,-1.28
-Lithuania,Europe,2020,-3.48
-Luxembourg,Europe,2020,-4.03
-Malta,Europe,2020,-16.42
-Moldova,Europe,2020,-3.72
-Montenegro,Europe,2020,-9.27
-Netherlands,Europe,2020,-3.03
-North Macedonia,Europe,2020,-3.98
-Norway,Europe,2020,-2.66
-Poland,Europe,2020,1.61
-Portugal,Europe,2020,-6.74
-Romania,Europe,2020,-2.4
-Russian Federation,Europe,2020,-3.19
-"Serbia, FR(Serbia/Montenegro)",Europe,2020,-0.94
-Slovak Republic,Europe,2020,-3.31
-Slovenia,Europe,2020,-2.18
-Spain,Europe,2020,-6.29
-Sweden,Europe,2020,-3.04
-Switzerland,Europe,2020,2.5
-Turkey,Europe,2020,2.16
-Ukraine,Europe,2020,-6.04
-United Kingdom,Europe,2020,-4.3
-Albania,Europe,2021,19.56
-Andorra,Europe,2021,2.27
-Austria,Europe,2021,13.19
-Azerbaijan,Europe,2021,4.4
-Belarus,Europe,2021,12.96
-Belgium,Europe,2021,15.67
-Bosnia and Herzegovina,Europe,2021,14.91
-Bulgaria,Europe,2021,15.09
-Croatia,Europe,2021,13.7
-Cyprus,Europe,2021,8.27
-Czech Republic,Europe,2021,11.33
-Denmark,Europe,2021,12.76
-Estonia,Europe,2021,16.73
-Finland,Europe,2021,12.41
-France,Europe,2021,10.75
-Georgia,Europe,2021,11.98
-Germany,Europe,2021,10.2
-Greece,Europe,2021,66.83
-Hungary,Europe,2021,10.76
-Iceland,Europe,2021,17.3
-Ireland,Europe,2021,11.11
-Italy,Europe,2021,15.43
-Latvia,Europe,2021,15.47
-Lithuania,Europe,2021,15.55
-Luxembourg,Europe,2021,10.58
-Malta,Europe,2021,11.57
-Moldova,Europe,2021,15.11
-Montenegro,Europe,2021,10.92
-Netherlands,Europe,2021,13.48
-North Macedonia,Europe,2021,14.36
-Norway,Europe,2021,10.27
-Poland,Europe,2021,14.77
-Portugal,Europe,2021,12.37
-Romania,Europe,2021,12.45
-Russian Federation,Europe,2021,12.56
-"Serbia, FR(Serbia/Montenegro)",Europe,2021,13.51
-Slovak Republic,Europe,2021,11.22
-Slovenia,Europe,2021,15.92
-Spain,Europe,2021,13.67
-Sweden,Europe,2021,11.96
-Switzerland,Europe,2021,5.52
-Turkey,Europe,2021,11.2
-Ukraine,Europe,2021,14.17
-United Kingdom,Europe,2021,4.18
-El Salvador,North Amercia,2010,7.19
-El Salvador,North Amercia,2011,8.81
-El Salvador,North Amercia,2012,1.46
-El Salvador,North Amercia,2013,2.36
-El Salvador,North Amercia,2014,-1.09
-El Salvador,North Amercia,2015,-1.06
-El Salvador,North Amercia,2016,-2.3
-El Salvador,North Amercia,2017,3.73
-El Salvador,North Amercia,2018,4.14
-El Salvador,North Amercia,2019,0.6
-El Salvador,North Amercia,2020,-7.68
-El Salvador,North Amercia,2021,21.59
-Antigua and Barbuda,North America,2010,-15.32
-Aruba,North America,2010,-3.46
-"Bahamas, The",North America,2010,2.98
-Barbados,North America,2010,-5.54
-Belize,North America,2010,4.23
-Bermuda,North America,2010,-2.88
-Canada,North America,2010,10.48
-Costa Rica,North America,2010,9.78
-Dominica,North America,2010,0.55
-Dominican Republic,North America,2010,7.23
-Grenada,North America,2010,6.07
-Guatemala,North America,2010,9.56
-Honduras,North America,2010,7.9
-Jamaica,North America,2010,1.58
-Mexico,North America,2010,13.41
-Nicaragua,North America,2010,9.76
-Panama,North America,2010,9.82
-St. Kitts and Nevis,North America,2010,-4.48
-St. Lucia,North America,2010,2.38
-St. Vincent and the Grenadines,North America,2010,6.68
-Trinidad and Tobago,North America,2010,-3.48
-Tunisia,North America,2010,7.86
-United States,North America,2010,10.85
-Antigua and Barbuda,North America,2011,-3.02
-Aruba,North America,2011,9.53
-"Bahamas, The",North America,2011,9.16
-Barbados,North America,2011,21.83
-Belize,North America,2011,6.44
-Bermuda,North America,2011,-4.69
-Canada,North America,2011,7.2
-Costa Rica,North America,2011,14.54
-Dominican Republic,North America,2011,9.52
-Grenada,North America,2011,2.8
-Guatemala,North America,2011,9.59
-Honduras,North America,2011,11.3
-Jamaica,North America,2011,10.99
-Mexico,North America,2011,7.88
-Nicaragua,North America,2011,9.74
-Panama,North America,2011,18.19
-St. Kitts and Nevis,North America,2011,-4.39
-St. Lucia,North America,2011,4.4
-St. Vincent and the Grenadines,North America,2011,0.52
-Trinidad and Tobago,North America,2011,20.92
-Tunisia,North America,2011,3.84
-United States,North America,2011,7.24
-Antigua and Barbuda,North America,2012,-15.14
-Aruba,North America,2012,-0.98
-"Bahamas, The",North America,2012,3.4
-Barbados,North America,2012,-0.22
-Belize,North America,2012,2.63
-Bermuda,North America,2012,-0.79
-Canada,North America,2012,1.3
-Costa Rica,North America,2012,0.25
-Dominican Republic,North America,2012,-2.02
-Grenada,North America,2012,-0.52
-Guatemala,North America,2012,1.1
-Honduras,North America,2012,0.61
-Jamaica,North America,2012,1.11
-Mexico,North America,2012,2.8
-Montserrat,North America,2012,-36.01
-Nicaragua,North America,2012,9.3
-Panama,North America,2012,7.87
-St. Kitts and Nevis,North America,2012,-4.64
-St. Lucia,North America,2012,-3.54
-St. Vincent and the Grenadines,North America,2012,2.54
-Trinidad and Tobago,North America,2012,10.68
-Tunisia,North America,2012,1.08
-Turks and Caicos Isl.,North America,2012,1.59
-United States,North America,2012,0.24
-Antigua and Barbuda,North America,2013,0.53
-Aruba,North America,2013,1.71
-"Bahamas, The",North America,2013,-3.93
-Barbados,North America,2013,0.03
-Belize,North America,2013,3.67
-Bermuda,North America,2013,7.11
-Canada,North America,2013,-0.06
-Costa Rica,North America,2013,-0.63
-Dominican Republic,North America,2013,1.18
-Grenada,North America,2013,17.61
-Guatemala,North America,2013,1.54
-Jamaica,North America,2013,-2.81
-Mexico,North America,2013,1.4
-Montserrat,North America,2013,6.72
-Nicaragua,North America,2013,-4.5
-Panama,North America,2013,-2.8
-St. Kitts and Nevis,North America,2013,5.32
-St. Lucia,North America,2013,16.32
-St. Vincent and the Grenadines,North America,2013,-4.22
-Trinidad and Tobago,North America,2013,4.13
-Tunisia,North America,2013,-0.42
-United States,North America,2013,-0.19
-Antigua and Barbuda,North America,2014,26.81
-Aruba,North America,2014,-0.74
-"Bahamas, The",North America,2014,6.13
-Barbados,North America,2014,-0.8
-Belize,North America,2014,3.05
-Bermuda,North America,2014,-1.7
-Canada,North America,2014,0.14
-Costa Rica,North America,2014,-2.63
-Dominican Republic,North America,2014,3.65
-Grenada,North America,2014,-16.2
-Guatemala,North America,2014,2.15
-Jamaica,North America,2014,-3.11
-Mexico,North America,2014,2.43
-Montserrat,North America,2014,-0.2
-Nicaragua,North America,2014,2.23
-Panama,North America,2014,-1.84
-St. Kitts and Nevis,North America,2014,3.78
-St. Lucia,North America,2014,-14.94
-St. Vincent and the Grenadines,North America,2014,-1.14
-Trinidad and Tobago,North America,2014,-5.46
-Tunisia,North America,2014,1.08
-United States,North America,2014,3.15
-Antigua and Barbuda,North America,2015,-8.18
-Aruba,North America,2015,-4.75
-"Bahamas, The",North America,2015,-8.67
-Barbados,North America,2015,-3.59
-Belize,North America,2015,1.72
-Bermuda,North America,2015,-1.69
-Canada,North America,2015,-4.84
-Costa Rica,North America,2015,-5.02
-Dominican Republic,North America,2015,-1.27
-Grenada,North America,2015,4.38
-Guatemala,North America,2015,-1.73
-Honduras,North America,2015,2.46
-Jamaica,North America,2015,-7.5
-Mexico,North America,2015,-0.59
-Montserrat,North America,2015,-15.89
-Nicaragua,North America,2015,1.04
-Panama,North America,2015,-4.69
-St. Kitts and Nevis,North America,2015,5.29
-St. Lucia,North America,2015,-4.68
-St. Vincent and the Grenadines,North America,2015,-3.93
-Trinidad and Tobago,North America,2015,-9.36
-Tunisia,North America,2015,-9.69
-United States,North America,2015,-2.04
-Antigua and Barbuda,North America,2016,2.69
-Aruba,North America,2016,-2.08
-"Bahamas, The",North America,2016,-3.71
-Barbados,North America,2016,0.11
-Belize,North America,2016,-2.19
-Bermuda,North America,2016,2.26
-Canada,North America,2016,-2.06
-Costa Rica,North America,2016,-0.59
-Dominican Republic,North America,2016,1.59
-Grenada,North America,2016,4.56
-Guatemala,North America,2016,-1.88
-Honduras,North America,2016,-2.84
-Jamaica,North America,2016,-2.29
-Mexico,North America,2016,-1.04
-Montserrat,North America,2016,10.2
-Nicaragua,North America,2016,12.89
-Panama,North America,2016,-3.57
-St. Kitts and Nevis,North America,2016,6
-St. Lucia,North America,2016,7.04
-St. Vincent and the Grenadines,North America,2016,0.16
-Trinidad and Tobago,North America,2016,-6.66
-Tunisia,North America,2016,-1.83
-United States,North America,2016,-1.44
-Antigua and Barbuda,North America,2017,13.31
-Aruba,North America,2017,3.42
-"Bahamas, The",North America,2017,8.93
-Barbados,North America,2017,-0.67
-Belize,North America,2017,-2.09
-Bermuda,North America,2017,5.35
-Canada,North America,2017,3.75
-Costa Rica,North America,2017,3.31
-Dominican Republic,North America,2017,0.71
-Grenada,North America,2017,2.79
-Guatemala,North America,2017,4.04
-Honduras,North America,2017,4.33
-Jamaica,North America,2017,10.48
-Mexico,North America,2017,4.21
-Montserrat,North America,2017,-8.49
-Nicaragua,North America,2017,1.51
-Panama,North America,2017,2.34
-St. Kitts and Nevis,North America,2017,-3.79
-St. Lucia,North America,2017,-0.36
-St. Vincent and the Grenadines,North America,2017,-0.72
-Trinidad and Tobago,North America,2017,-7.42
-Tunisia,North America,2017,2.86
-United States,North America,2017,3.46
-Antigua and Barbuda,North America,2018,-4.94
-Aruba,North America,2018,2.52
-"Bahamas, The",North America,2018,0.67
-Barbados,North America,2018,0.01
-Belize,North America,2018,2.41
-Bermuda,North America,2018,-0.38
-Canada,North America,2018,3.06
-Costa Rica,North America,2018,0.64
-Dominican Republic,North America,2018,2
-Grenada,North America,2018,12.68
-Guatemala,North America,2018,3.39
-Honduras,North America,2018,4.63
-Jamaica,North America,2018,2.98
-Mexico,North America,2018,5.09
-Montserrat,North America,2018,8.65
-Nicaragua,North America,2018,-2.32
-Panama,North America,2018,2.38
-St. Lucia,North America,2018,0.69
-St. Vincent and the Grenadines,North America,2018,3.53
-Trinidad and Tobago,North America,2018,5.77
-Tunisia,North America,2018,4.92
-United States,North America,2018,4.2
-Antigua and Barbuda,North America,2019,-0.08
-Aruba,North America,2019,2.28
-"Bahamas, The",North America,2019,-2.93
-Barbados,North America,2019,-0.6
-Belize,North America,2019,1.46
-Bermuda,North America,2019,2.21
-Canada,North America,2019,-0.69
-Costa Rica,North America,2019,-1.39
-Dominican Republic,North America,2019,3.94
-Grenada,North America,2019,-3.46
-Guatemala,North America,2019,0.58
-Honduras,North America,2019,-1.45
-Jamaica,North America,2019,1.76
-Mexico,North America,2019,-0.98
-Montserrat,North America,2019,-4.35
-Nicaragua,North America,2019,-2.52
-Panama,North America,2019,-3.3
-St. Lucia,North America,2019,-3.72
-St. Vincent and the Grenadines,North America,2019,-2.64
-Trinidad and Tobago,North America,2019,-9.37
-Tunisia,North America,2019,-2.5
-United States,North America,2019,-0.84
-Aruba,North America,2020,-15.44
-"Bahamas, The",North America,2020,-18.51
-Barbados,North America,2020,-2.56
-Belize,North America,2020,-10.65
-Bermuda,North America,2020,-10.07
-Canada,North America,2020,-5.49
-Costa Rica,North America,2020,-5.26
-Dominican Republic,North America,2020,-11.8
-Grenada,North America,2020,-9.32
-Guatemala,North America,2020,-4.3
-Honduras,North America,2020,-6.69
-Jamaica,North America,2020,-13.64
-Mexico,North America,2020,-8.28
-Montserrat,North America,2020,-2.97
-Nicaragua,North America,2020,-3.2
-Panama,North America,2020,-17.24
-St. Lucia,North America,2020,-7.57
-St. Vincent and the Grenadines,North America,2020,-2.12
-Trinidad and Tobago,North America,2020,-12.29
-Tunisia,North America,2020,-7.53
-United States,North America,2020,-3.21
-Aruba,North America,2021,11.59
-Barbados,North America,2021,5.59
-Belize,North America,2021,16.07
-Bermuda,North America,2021,8.04
-Canada,North America,2021,10.12
-Cayman Islands,North America,2021,7.34
-Costa Rica,North America,2021,12.91
-Dominican Republic,North America,2021,18.93
-Grenada,North America,2021,6.4
-Guatemala,North America,2021,20.89
-Honduras,North America,2021,20.79
-Jamaica,North America,2021,11.98
-Mexico,North America,2021,15.01
-Nicaragua,North America,2021,22.53
-Panama,North America,2021,-4.89
-St. Vincent and the Grenadines,North America,2021,7.69
-Trinidad and Tobago,North America,2021,8.69
-Tunisia,North America,2021,10.44
-United States,North America,2021,10.42
-Australia,Oceania,2010,10.36
-Cook Islands,Oceania,2010,5.41
-Fiji,Oceania,2010,12.18
-French Polynesia,Oceania,2010,0.25
-Kiribati,Oceania,2010,4.44
-"Micronesia, Fed. Sts.",Oceania,2010,-0.91
-New Caledonia,Oceania,2010,14.78
-New Zealand,Oceania,2010,9.43
-Palau,Oceania,2010,9.22
-Samoa,Oceania,2010,15.93
-Solomon Islands,Oceania,2010,23.93
-Tonga,Oceania,2010,4.78
-Vanuatu,Oceania,2010,-0.27
-Australia,Oceania,2011,7.76
-Cook Islands,Oceania,2011,9.83
-Fiji,Oceania,2011,9.84
-French Polynesia,Oceania,2011,-2.88
-Kiribati,Oceania,2011,12.04
-"Micronesia, Fed. Sts.",Oceania,2011,5.84
-New Caledonia,Oceania,2011,5.79
-New Zealand,Oceania,2011,23.74
-Palau,Oceania,2011,9.78
-Samoa,Oceania,2011,5.66
-Solomon Islands,Oceania,2011,16.69
-Tonga,Oceania,2011,10.23
-Vanuatu,Oceania,2011,0.84
-Australia,Oceania,2012,3.41
-Fiji,Oceania,2012,1.61
-French Polynesia,Oceania,2012,2.38
-Kiribati,Oceania,2012,8.78
-"Micronesia, Fed. Sts.",Oceania,2012,1.47
-New Caledonia,Oceania,2012,-6.31
-New Zealand,Oceania,2012,-9.68
-Palau,Oceania,2012,4.81
-Papua New Guinea,Oceania,2012,16.88
-Samoa,Oceania,2012,-0.06
-Solomon Islands,Oceania,2012,5.13
-Tonga,Oceania,2012,1.6
-Australia,Oceania,2013,-3.66
-Fiji,Oceania,2013,12
-French Polynesia,Oceania,2013,3.13
-Kiribati,Oceania,2013,-5.42
-"Micronesia, Fed. Sts.",Oceania,2013,-1.55
-New Caledonia,Oceania,2013,-0.12
-New Zealand,Oceania,2013,1.78
-Palau,Oceania,2013,8.99
-Samoa,Oceania,2013,3
-Solomon Islands,Oceania,2013,8.43
-Tonga,Oceania,2013,-0.29
-Australia,Oceania,2014,-1.07
-Fiji,Oceania,2014,7.25
-French Polynesia,Oceania,2014,-1.48
-Kiribati,Oceania,2014,9.52
-New Caledonia,Oceania,2014,1.2
-New Zealand,Oceania,2014,3.58
-Palau,Oceania,2014,-1.06
-Samoa,Oceania,2014,2.88
-Solomon Islands,Oceania,2014,-7.23
-Tonga,Oceania,2014,4.97
-Australia,Oceania,2015,-6.22
-Fiji,Oceania,2015,-16.47
-French Polynesia,Oceania,2015,-6.91
-Kiribati,Oceania,2015,-2.5
-New Caledonia,Oceania,2015,-12.65
-New Zealand,Oceania,2015,-7.3
-Palau,Oceania,2015,-4.55
-Samoa,Oceania,2015,-2.27
-Solomon Islands,Oceania,2015,-3.41
-Australia,Oceania,2016,-2.71
-Fiji,Oceania,2016,0.75
-French Polynesia,Oceania,2016,0
-Kiribati,Oceania,2016,3.66
-New Zealand,Oceania,2016,-0.67
-Palau,Oceania,2016,1.06
-Samoa,Oceania,2016,-2.84
-Solomon Islands,Oceania,2016,-1.29
-Australia,Oceania,2017,9.82
-Fiji,Oceania,2017,2.24
-French Polynesia,Oceania,2017,4.45
-Kiribati,Oceania,2017,-4.78
-New Zealand,Oceania,2017,5.51
+Pakistan,Asia,2017,10.55
+Pakistan,Asia,2016,3.36
+Pakistan,Asia,2018,2.34
+Pakistan,Asia,2015,-3.81
+Pakistan,Asia,2020,-4.38
+Pakistan,Asia,2019,-8.78
 Palau,Oceania,2017,1.39
-Samoa,Oceania,2017,0.9
-Solomon Islands,Oceania,2017,12.24
-Australia,Oceania,2018,1.56
-Fiji,Oceania,2018,6.5
-French Polynesia,Oceania,2018,16.6
-Kiribati,Oceania,2018,-2.46
-New Zealand,Oceania,2018,4.34
+Palau,Oceania,2016,1.06
 Palau,Oceania,2018,-1.08
-Samoa,Oceania,2018,0.94
-Solomon Islands,Oceania,2018,2.56
-Australia,Oceania,2019,-3.04
-Fiji,Oceania,2019,0.95
-French Polynesia,Oceania,2019,-3.27
-New Zealand,Oceania,2019,-1.63
-Samoa,Oceania,2019,3.76
-Australia,Oceania,2020,-2.59
-Fiji,Oceania,2020,-21.12
-French Polynesia,Oceania,2020,-10.06
-New Zealand,Oceania,2020,-7.02
-Australia,Oceania,2021,11.55
-Fiji,Oceania,2021,10.57
-French Polynesia,Oceania,2021,8.1
-New Zealand,Oceania,2021,16.05
-Argentina,South America,2010,21.01
-Armenia,South America,2010,9.14
-Bolivia,South America,2010,10.75
-Brazil,South America,2010,19.46
-Chile,South America,2010,17.4
-Colombia,South America,2010,11.2
-Ecuador,South America,2010,16.81
-Guyana,South America,2010,11.13
-Paraguay,South America,2010,20.05
-Peru,South America,2010,17.21
-Suriname,South America,2010,0.27
-Uruguay,South America,2010,11.73
-Venezuela,South America,2010,-8.55
-Argentina,South America,2011,14.12
-Armenia,South America,2011,2.59
-Bolivia,South America,2011,19
-Brazil,South America,2011,11.16
-Chile,South America,2011,12.69
-Colombia,South America,2011,15.93
-Ecuador,South America,2011,8.6
-Guyana,South America,2011,10.38
-Paraguay,South America,2011,11.02
-Peru,South America,2011,12.45
-Suriname,South America,2011,8.26
-Uruguay,South America,2011,11.54
-Venezuela,South America,2011,22.74
-Argentina,South America,2012,-4.13
-Armenia,South America,2012,3.54
-Bolivia,South America,2012,4.04
-Brazil,South America,2012,-0.69
-Chile,South America,2012,3.45
-Colombia,South America,2012,3.07
-Ecuador,South America,2012,1.86
-Guyana,South America,2012,6.26
-Paraguay,South America,2012,-3.33
-Peru,South America,2012,5.49
-Suriname,South America,2012,2.86
-Uruguay,South America,2012,4.23
-Venezuela,South America,2012,10.11
-Argentina,South America,2013,4.65
-Armenia,South America,2013,-0.13
-Bolivia,South America,2013,6.26
-Brazil,South America,2013,3.52
-Chile,South America,2013,-0.46
-Colombia,South America,2013,1.11
-Ecuador,South America,2013,3.64
-Guyana,South America,2013,-3.33
-Paraguay,South America,2013,2.51
-Peru,South America,2013,1.36
-Suriname,South America,2013,15.42
-Uruguay,South America,2013,-0.04
-Venezuela,South America,2013,-12.77
-Argentina,South America,2014,-6.03
-Armenia,South America,2014,-1.14
-Bolivia,South America,2014,4.91
-Brazil,South America,2014,-2.31
-Chile,South America,2014,-4.13
-Colombia,South America,2014,3.84
-Ecuador,South America,2014,0.83
-Guyana,South America,2014,-2.25
-Paraguay,South America,2014,0.11
-Peru,South America,2014,-1.33
-Suriname,South America,2014,-11.04
-Uruguay,South America,2014,-3.85
-Argentina,South America,2015,-4.3
-Armenia,South America,2015,-11.51
-Bolivia,South America,2015,-3.97
-Brazil,South America,2015,-13.43
-Chile,South America,2015,-7.51
-Colombia,South America,2015,-8.13
-Ecuador,South America,2015,-11.84
-Guyana,South America,2015,-8.77
-Paraguay,South America,2015,-8.04
-Peru,South America,2015,-5.05
-Suriname,South America,2015,2.11
-Uruguay,South America,2015,-6.1
-Argentina,South America,2016,-3.63
-Armenia,South America,2016,-0.59
-Bolivia,South America,2016,-6.72
-Brazil,South America,2016,-10.28
-Chile,South America,2016,-2.46
-Colombia,South America,2016,-8.91
-Ecuador,South America,2016,-13
-Guyana,South America,2016,4.63
-Paraguay,South America,2016,-2.66
-Peru,South America,2016,-2.5
-Suriname,South America,2016,-21.46
-Uruguay,South America,2016,-7.4
-Argentina,South America,2017,9.39
-Armenia,South America,2017,9.99
-Bolivia,South America,2017,4.59
-Brazil,South America,2017,6.86
-Chile,South America,2017,4.84
-Colombia,South America,2017,1.35
-Ecuador,South America,2017,10.72
-Guyana,South America,2017,4.12
-Paraguay,South America,2017,10.35
-Peru,South America,2017,4.88
-Suriname,South America,2017,1.43
-Uruguay,South America,2017,1.96
-Argentina,South America,2018,-1.1
-Armenia,South America,2018,11.14
-Bolivia,South America,2018,3.32
-Brazil,South America,2018,7.83
-Chile,South America,2018,7
-Colombia,South America,2018,5.47
-Ecuador,South America,2018,8.07
-Guyana,South America,2018,16.73
-Paraguay,South America,2018,5.97
-Peru,South America,2018,4.16
-Suriname,South America,2018,12.39
-Uruguay,South America,2018,2.54
-Argentina,South America,2019,-13.36
-Armenia,South America,2019,2.6
-Bolivia,South America,2019,-0.88
-Brazil,South America,2019,0.08
-Chile,South America,2019,-3.24
-Colombia,South America,2019,1.42
-Ecuador,South America,2019,-1.33
-Guyana,South America,2019,29.5
-Paraguay,South America,2019,-4.4
-Peru,South America,2019,-0.89
-Suriname,South America,2019,5.87
-Uruguay,South America,2019,-3.71
-Argentina,South America,2020,-7.15
-Armenia,South America,2020,-6.24
-Bolivia,South America,2020,-14.9
-Brazil,South America,2020,-7.2
-Chile,South America,2020,-7.94
-Colombia,South America,2020,-9.16
-Ecuador,South America,2020,-10.89
-Guyana,South America,2020,-21.29
-Paraguay,South America,2020,-8.44
-Peru,South America,2020,-7.75
-Suriname,South America,2020,-5.35
-Uruguay,South America,2020,-4.22
-Argentina,South America,2021,22.14
-Armenia,South America,2021,9.37
-Bolivia,South America,2021,16.27
-Brazil,South America,2021,18.78
-Chile,South America,2021,24.79
-Colombia,South America,2021,18.53
-Ecuador,South America,2021,19.73
-Guyana,South America,2021,29.16
+Palau,Oceania,2015,-4.55
+Panama,North America,2018,2.38
+Panama,North America,2017,2.34
+Panama,North America,2019,-3.3
+Panama,North America,2016,-3.57
+Panama,North America,2015,-4.69
+Panama,North America,2021,-4.89
+Panama,North America,2020,-17.24
 Paraguay,South America,2021,15.21
+Paraguay,South America,2017,10.35
+Paraguay,South America,2018,5.97
+Paraguay,South America,2016,-2.66
+Paraguay,South America,2019,-4.4
+Paraguay,South America,2015,-8.04
+Paraguay,South America,2020,-8.44
 Peru,South America,2021,19.13
+Peru,South America,2017,4.88
+Peru,South America,2018,4.16
+Peru,South America,2019,-0.89
+Peru,South America,2016,-2.5
+Peru,South America,2015,-5.05
+Peru,South America,2020,-7.75
+Philippines,Asia,2021,14.39
+Philippines,Asia,2016,10.66
+Philippines,Asia,2017,8.9
+Philippines,Asia,2018,6.26
+Philippines,Asia,2015,1.78
+Philippines,Asia,2019,0.96
+Philippines,Asia,2020,-9.95
+Poland,Europe,2021,14.77
+Poland,Europe,2018,10.82
+Poland,Europe,2017,7.53
+Poland,Europe,2020,1.61
+Poland,Europe,2016,-0.31
+Poland,Europe,2019,-4.01
+Poland,Europe,2015,-6.44
+Portugal,Europe,2021,12.37
+Portugal,Europe,2018,10.2
+Portugal,Europe,2017,7.65
+Portugal,Europe,2016,0.78
+Portugal,Europe,2019,-3.24
+Portugal,Europe,2020,-6.74
+Portugal,Europe,2015,-7.62
+Qatar,Asia,2021,4.08
+Qatar,Asia,2015,3.49
+Qatar,Asia,2018,2.97
+Qatar,Asia,2016,-0.85
+Qatar,Asia,2017,-3.43
+Qatar,Asia,2019,-4.05
+Qatar,Asia,2020,-5.9
+Romania,Europe,2021,12.45
+Romania,Europe,2018,7.11
+Romania,Europe,2017,6.94
+Romania,Europe,2016,3.34
+Romania,Europe,2019,-0.63
+Romania,Europe,2020,-2.4
+Romania,Europe,2015,-5.3
+Russian Federation,Europe,2021,12.56
+Russian Federation,Europe,2017,11.95
+Russian Federation,Europe,2016,6.53
+Russian Federation,Europe,2019,1.43
+Russian Federation,Europe,2020,-3.19
+Russian Federation,Europe,2018,-3.87
+Russian Federation,Europe,2015,-20.15
+Rwanda,Africa,2020,7.8
+Rwanda,Africa,2019,6.2
+Rwanda,Africa,2015,3.94
+Rwanda,Africa,2016,3.66
+Rwanda,Africa,2017,2.97
+Rwanda,Africa,2018,2.34
+Rwanda,Africa,2021,0.4
+Samoa,Oceania,2019,3.76
+Samoa,Oceania,2018,0.94
+Samoa,Oceania,2017,0.9
+Samoa,Oceania,2015,-2.27
+Samoa,Oceania,2016,-2.84
+Sao Tome and Principe,Africa,2021,9.75
+Sao Tome and Principe,Africa,2017,2.72
+Sao Tome and Principe,Africa,2018,0.43
+Sao Tome and Principe,Africa,2019,-0.22
+Sao Tome and Principe,Africa,2016,-0.88
+Sao Tome and Principe,Africa,2020,-3.31
+Sao Tome and Principe,Africa,2015,-8.58
+Saudi Arabia,Africa,2021,7.83
+Saudi Arabia,Africa,2019,3.32
+Saudi Arabia,Africa,2015,1.93
+Saudi Arabia,Africa,2018,0.26
+Saudi Arabia,Africa,2017,-2.04
+Saudi Arabia,Africa,2020,-4.62
+Saudi Arabia,Africa,2016,-10.45
+Senegal,Africa,2021,11.42
+Senegal,Africa,2017,10.83
+Senegal,Africa,2018,9.52
+Senegal,Africa,2019,0.44
+Senegal,Africa,2016,-1.06
+Senegal,Africa,2020,-2.05
+Senegal,Africa,2015,-7.24
+"Serbia, FR(Serbia/Montenegro)",Europe,2021,13.51
+"Serbia, FR(Serbia/Montenegro)",Europe,2018,8.11
+"Serbia, FR(Serbia/Montenegro)",Europe,2017,7.31
+"Serbia, FR(Serbia/Montenegro)",Europe,2016,2.76
+"Serbia, FR(Serbia/Montenegro)",Europe,2019,1.62
+"Serbia, FR(Serbia/Montenegro)",Europe,2020,-0.94
+"Serbia, FR(Serbia/Montenegro)",Europe,2015,-6
+Seychelles,Africa,2017,50.08
+Seychelles,Africa,2016,25.28
+Seychelles,Africa,2021,11.21
+Seychelles,Africa,2020,1.94
+Seychelles,Africa,2019,-9.24
+Seychelles,Africa,2018,-28.9
+Seychelles,Africa,2015,-40.69
+Sierra Leone,Africa,2017,5.87
+Sierra Leone,Africa,2018,-4.12
+Sierra Leone,Africa,2015,-7.51
+Sierra Leone,Africa,2016,-26.21
+Singapore,Asia,2021,11.24
+Singapore,Asia,2018,6.33
+Singapore,Asia,2017,5.96
+Singapore,Asia,2019,-1.57
+Singapore,Asia,2016,-2.67
+Singapore,Asia,2020,-4.32
+Singapore,Asia,2015,-9.71
+Slovak Republic,Europe,2021,11.22
+Slovak Republic,Europe,2018,6.57
+Slovak Republic,Europe,2017,4.52
+Slovak Republic,Europe,2016,1.25
+Slovak Republic,Europe,2019,-1.12
+Slovak Republic,Europe,2020,-3.31
+Slovak Republic,Europe,2015,-5.1
+Slovenia,Europe,2021,15.92
+Slovenia,Europe,2017,8.03
+Slovenia,Europe,2018,7.9
+Slovenia,Europe,2019,2.58
+Slovenia,Europe,2016,1.57
+Slovenia,Europe,2020,-2.18
+Slovenia,Europe,2015,-7.21
+Solomon Islands,Oceania,2017,12.24
+Solomon Islands,Oceania,2018,2.56
+Solomon Islands,Oceania,2016,-1.29
+Solomon Islands,Oceania,2015,-3.41
+South Africa,Africa,2021,16.42
+South Africa,Africa,2018,5.59
+South Africa,Africa,2017,5.15
+South Africa,Africa,2019,-2.51
+South Africa,Africa,2016,-6.25
+South Africa,Africa,2015,-7.43
+South Africa,Africa,2020,-11.51
+Spain,Europe,2021,13.67
+Spain,Europe,2018,7.02
+Spain,Europe,2017,6.16
+Spain,Europe,2016,-0.29
+Spain,Europe,2019,-2.01
+Spain,Europe,2020,-6.29
+Spain,Europe,2015,-7.06
+Sri Lanka,Asia,2021,17.38
+Sri Lanka,Asia,2017,4.55
+Sri Lanka,Asia,2016,1.4
+Sri Lanka,Asia,2015,-0.72
+Sri Lanka,Asia,2020,-10.48
+St. Kitts and Nevis,North America,2016,6
+St. Kitts and Nevis,North America,2015,5.29
+St. Kitts and Nevis,North America,2017,-3.79
+St. Lucia,North America,2016,7.04
+St. Lucia,North America,2018,0.69
+St. Lucia,North America,2017,-0.36
+St. Lucia,North America,2019,-3.72
+St. Lucia,North America,2015,-4.68
+St. Lucia,North America,2020,-7.57
+St. Vincent and the Grenadines,North America,2021,7.69
+St. Vincent and the Grenadines,North America,2018,3.53
+St. Vincent and the Grenadines,North America,2016,0.16
+St. Vincent and the Grenadines,North America,2017,-0.72
+St. Vincent and the Grenadines,North America,2020,-2.12
+St. Vincent and the Grenadines,North America,2019,-2.64
+St. Vincent and the Grenadines,North America,2015,-3.93
+Sudan,Africa,2016,10.51
+Sudan,Africa,2018,1
+Sudan,Africa,2017,0.01
+Sudan,Africa,2015,-6.92
+Suriname,South America,2018,12.39
+Suriname,South America,2019,5.87
+Suriname,South America,2015,2.11
+Suriname,South America,2017,1.43
 Suriname,South America,2021,-5.08
+Suriname,South America,2020,-5.35
+Suriname,South America,2016,-21.46
+Sweden,Europe,2021,11.96
+Sweden,Europe,2018,5.17
+Sweden,Europe,2017,4.6
+Sweden,Europe,2016,0.98
+Sweden,Europe,2020,-3.04
+Sweden,Europe,2019,-3.37
+Sweden,Europe,2015,-7.78
+Switzerland,Europe,2021,5.52
+Switzerland,Europe,2016,3.54
+Switzerland,Europe,2020,2.5
+Switzerland,Europe,2018,2.07
+Switzerland,Europe,2017,-0.33
+Switzerland,Europe,2019,-0.41
+Switzerland,Europe,2015,-4.49
+Tajikistan,Asia,2021,15.89
+Tajikistan,Asia,2018,6.42
+Tajikistan,Asia,2019,2.91
+Tajikistan,Asia,2020,-2.87
+Tajikistan,Asia,2017,-4.34
+Tanzania,Africa,2021,12.99
+Tanzania,Africa,2015,7.65
+Tanzania,Africa,2018,4.95
+Tanzania,Africa,2019,2.89
+Tanzania,Africa,2017,-0.71
+Tanzania,Africa,2020,-3.02
+Tanzania,Africa,2016,-26.82
+Thailand,Asia,2021,13.64
+Thailand,Asia,2017,6.8
+Thailand,Asia,2018,6.06
+Thailand,Asia,2016,-2.11
+Thailand,Asia,2020,-2.12
+Thailand,Asia,2015,-5.71
+Thailand,Asia,2019,-6.72
+Togo,Africa,2021,14.82
+Togo,Africa,2020,10.24
+Togo,Africa,2018,2.74
+Togo,Africa,2019,1.75
+Togo,Africa,2017,-2.83
+Togo,Africa,2015,-3.92
+Togo,Africa,2016,-3.93
+Trinidad and Tobago,North America,2021,8.69
+Trinidad and Tobago,North America,2018,5.77
+Trinidad and Tobago,North America,2016,-6.66
+Trinidad and Tobago,North America,2017,-7.42
+Trinidad and Tobago,North America,2015,-9.36
+Trinidad and Tobago,North America,2019,-9.37
+Trinidad and Tobago,North America,2020,-12.29
+Tunisia,North America,2021,10.44
+Tunisia,North America,2018,4.92
+Tunisia,North America,2017,2.86
+Tunisia,North America,2016,-1.83
+Tunisia,North America,2019,-2.5
+Tunisia,North America,2020,-7.53
+Tunisia,North America,2015,-9.69
+Turkey,Europe,2021,11.2
+Turkey,Europe,2017,8.66
+Turkey,Europe,2020,2.16
+Turkey,Europe,2018,-1.6
+Turkey,Europe,2016,-2.71
+Turkey,Europe,2019,-4.61
+Turkey,Europe,2015,-7.77
+Uganda,Africa,2018,9.66
+Uganda,Africa,2017,7.64
+Uganda,Africa,2019,6.94
+Uganda,Africa,2020,3.54
+Uganda,Africa,2015,-4.6
+Uganda,Africa,2016,-6.53
+Ukraine,Europe,2021,14.17
+Ukraine,Europe,2017,12.23
+Ukraine,Europe,2018,7.55
+Ukraine,Europe,2019,3.11
+Ukraine,Europe,2016,2.28
+Ukraine,Europe,2020,-6.04
+Ukraine,Europe,2015,-16.94
+United Arab Emirates,Asia,2021,18.63
+United Arab Emirates,Asia,2019,8.57
+United Arab Emirates,Asia,2015,-1.96
+United Arab Emirates,Asia,2017,-2.44
+United Arab Emirates,Asia,2018,-2.56
+United Arab Emirates,Asia,2016,-2.87
+United Arab Emirates,Asia,2020,-7.47
+United Kingdom,Europe,2021,4.18
+United Kingdom,Europe,2018,2.37
+United Kingdom,Europe,2019,1.54
+United Kingdom,Europe,2016,0.48
+United Kingdom,Europe,2017,0.36
+United Kingdom,Europe,2020,-4.3
+United Kingdom,Europe,2015,-4.73
+United States,North America,2021,10.42
+United States,North America,2018,4.2
+United States,North America,2017,3.46
+United States,North America,2019,-0.84
+United States,North America,2016,-1.44
+United States,North America,2015,-2.04
+United States,North America,2020,-3.21
 Uruguay,South America,2021,16.8
+Uruguay,South America,2018,2.54
+Uruguay,South America,2017,1.96
+Uruguay,South America,2019,-3.71
+Uruguay,South America,2020,-4.22
+Uruguay,South America,2015,-6.1
+Uruguay,South America,2016,-7.4
+Uzbekistan,Asia,2018,19.94
+Uzbekistan,Asia,2019,12.38
+Uzbekistan,Asia,2021,9.23
+Uzbekistan,Asia,2020,-4.32
+Vietnam,Asia,2021,12.51
+Vietnam,Asia,2017,10.39
+Vietnam,Asia,2015,5.89
+Vietnam,Asia,2018,5.4
+Vietnam,Asia,2019,3.44
+Vietnam,Asia,2016,2.74
+Vietnam,Asia,2020,1.54
+Yemen,Asia,2019,19.38
+Yemen,Asia,2015,-26.12
+Zambia,Africa,2021,10.35
+Zambia,Africa,2018,8.93
+Zambia,Africa,2017,4.78
+Zambia,Africa,2016,-4.15
+Zambia,Africa,2015,-10.61
+Zambia,Africa,2019,-13.08
+Zambia,Africa,2020,-14.17
+Zimbabwe,Africa,2021,22.52
+Zimbabwe,Africa,2018,14.01
+Zimbabwe,Africa,2020,2.68
+Zimbabwe,Africa,2015,-0.14
+Zimbabwe,Africa,2017,-3.56
+Zimbabwe,Africa,2016,-6.11
+Zimbabwe,Africa,2019,-13.85

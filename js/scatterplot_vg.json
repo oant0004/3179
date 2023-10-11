@@ -1,11 +1,12 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "description": "A scatter plot based on your dataset with a year slider for selected countries.",
-    "data": {"url": "data/scatterplot_data.csv", "format": {"type": "csv"}},
-    "width": 600,
-    "height": 400,
-    
-    "params": [{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "A scatter plot based on your dataset with a year slider for selected countries.",
+  "data": {"url": "data/scatterplot_data.csv", "format": {"type": "csv"}},
+  "width": 600,
+  "height": 400,
+
+  "params": [
+    {
       "name": "yearSlider",
       "value": 1988,
       "bind": {
@@ -15,76 +16,79 @@
         "step": 1,
         "name": "Year"
       }
-    }],
-    
-    "transform": [
-      {
-        "filter": "datum.Year == yearSlider"
-      },
-      {
-        "filter": {
-          "field": "Country",
-          "oneOf": [
-            "Australia", "United States", "Indonesia", "India", "United Kingdom", 
-            "China", "Japan", "Singapore", "New Zealand", "France", "Canada", 
-            "Switzerland", "Ukraine", "Turkey", "Portugal", "Netherlands", 
-            "Malaysia", "Israel", "Greece", "Germany", "Brazil", "Hungary", 
-            "Afghanistan", "Italy", "Pakistan", "Philippines", "Portugal", 
-            "Qatar", "Slovenia", "Spain", "Sweden", "Thailand"
-          ]
-        }
+    },
+    {
+      "name": "continentSelector",
+      "value": "All",
+      "bind": {
+        "input": "select",
+        "options": ["All", "Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"],
+        "name": "Select Continent"
       }
-    ],
-    
-    "layer": [
-      {
-        "mark": {
-          "type": "circle",
-          "size": 200
-        },
-        "encoding": {
-          "x": {
-            "field": "Duitable_tarrif",
-            "type": "quantitative",
-            "axis": {"title": "Duitable Tarrif"}
-          },
-          "y": {
-            "field": "Dutyfree_tarrif",
-            "type": "quantitative",
-            "axis": {"title": "Dutyfree Tarrif"}
-          },
-          "color": {
-            "field": "Country",
-            "type": "nominal"
-          },
-          "tooltip": [
-            {"field": "Country", "type": "nominal"},
-            {"field": "Year", "type": "quantitative"},
-            {"field": "Duitable_tarrif", "type": "quantitative"},
-            {"field": "Dutyfree_tarrif", "type": "quantitative"}
-          ]
-        }
+    }
+  ],
+
+  "transform": [
+    {
+      "filter": "datum.Year == yearSlider"
+    },
+    {
+      "filter": "continentSelector === 'All' || datum.Continent == continentSelector"
+    }
+  ],
+
+  "layer": [
+    {
+      "mark": {
+        "type": "circle",
+        "size": 200
       },
-      {
-        "transform": [
-          {"filter": "datum.Country === 'Australia'"}
-        ],
-        "mark": {
-          "type": "text",
-          "dy": -10
+      "encoding": {
+        "x": {
+          "field": "Duitable_tarrif",
+          "type": "quantitative",
+          "axis": {"title": "Duitable Tarrif"}
         },
-        "encoding": {
-          "x": {
-            "field": "Duitable_tarrif",
-            "type": "quantitative"
-          },
-          "y": {
-            "field": "Dutyfree_tarrif",
-            "type": "quantitative"
-          },
-          "text": {"field": "Country", "type": "nominal"}
-        }
+        "y": {
+          "field": "Dutyfree_tarrif",
+          "type": "quantitative",
+          "axis": {"title": "Dutyfree Tarrif"}
+        },
+        "color": {
+          "field": "Continent",
+          "type": "nominal",
+          "scale": {
+            "domain": ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"],
+            "range": ["#1f77b4", "#aec7e8", "#ff7f0e", "#ffbb78", "#2ca02c", "#98df8a", "#d62728"]
+          }
+        },
+        "tooltip": [
+          {"field": "Country", "type": "nominal"},
+          {"field": "Year", "type": "quantitative"},
+          {"field": "Duitable_tarrif", "type": "quantitative"},
+          {"field": "Dutyfree_tarrif", "type": "quantitative"}
+        ]
       }
-    ]
-  }
-  
+    },
+    {
+      "transform": [
+        {"filter": "datum.Country === 'Australia'"}
+      ],
+      "mark": {
+        "type": "text",
+        "dy": -10
+      },
+      "encoding": {
+        "x": {
+          "field": "Duitable_tarrif",
+          "type": "quantitative"
+        },
+        "y": {
+          "field": "Dutyfree_tarrif",
+          "type": "quantitative"
+        },
+        "text": {"field": "Country", "type": "nominal"}
+      }
+    }
+  ]
+}
