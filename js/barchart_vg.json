@@ -1,0 +1,43 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "A grouped bar chart showing continent growth over the years.",
+  "data": {"url": "data/Continentgrowth.csv"},
+  "mark": "bar",
+  "encoding": {
+    "x": {
+      "field": "Year", 
+      "type": "ordinal",
+      "axis": {
+        "domain": false,
+        "ticks": false,
+        "labelAngle": -90,
+        "labelPadding": 4
+      }
+    },
+    "y": {
+      "field": "Continent_growth", 
+      "type": "quantitative",
+      "axis": {
+        "gridColor": {
+          "condition": {"test": "datum.value === 0", "value": "black"},
+          "value": "#ddd"
+        }
+      }
+    },
+    "color": {
+      "field": "Continent",
+      "type": "nominal",
+      "scale": {"scheme": "blues"}
+    },
+    "column": {
+      "field": "Continent",
+      "type": "nominal",
+      "spacing": 2
+    },
+    "tooltip": [
+      {"field": "Continent", "type": "nominal", "title": "Continent"},
+      {"field": "Year", "type": "ordinal", "title": "Year"},
+      {"field": "Continent_growth", "type": "quantitative", "title": "Growth"}
+    ]
+  }
+}
