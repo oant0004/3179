@@ -1,4 +1,5 @@
 ﻿Continent,Year,Continent_growth
+Africa,2015,7.43
 Africa,2016,-3.54
 Africa,2017,5.27
 Africa,2018,3.15
@@ -11,24 +12,28 @@ Asia,2018,4.38
 Asia,2019,0.354
 Asia,2020,-5.92
 Asia,2021,13.7
+Europe,2015,5.28
 Europe,2016,1.06
 Europe,2017,6.243
 Europe,2018,6.046
 Europe,2019,-0.936
 Europe,2020,-3.95
 Europe,2021,13.6
+North America,2015,3.68
 North America,2016,0.67
 North America,2017,2.22
 North America,2018,2.84
 North America,2019,-1.29
 North America,2020,-8.48
 North America,2021,11.67
+Oceania,2015,-3.78
 Oceania,2016,3.97
 Oceania,2017,3.62
 Oceania,2018,-0.64
 Oceania,2019,-10.19
 Oceania,2020,11.57
 Oceania,2021,12.123
+South America,2015,2.58
 South America,2016,5.87
 South America,2017,6.96
 South America,2018,0.971

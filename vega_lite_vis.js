@@ -28,22 +28,12 @@ vegaEmbed("#doublebar_chart", vg_6).then(function(result) {
     // Access the Vega view instance as result.view
 }).catch(console.error);
 
-var vg_7 = "js/barchart_vg.json"; 
-vegaEmbed("#bar_chart", vg_7).then(function(result) {
+var vg_7 = "js/scatterplot_vg.json"; 
+vegaEmbed("#scatter_plot", vg_7).then(function(result) {
     // Access the Vega view instance as result.view
 }).catch(console.error);
 
-var vg_8 = "js/lolipopchart_vg.json"; 
-vegaEmbed("#lolipop_chart", vg_8).then(function(result) {
-    // Access the Vega view instance as result.view
-}).catch(console.error);
-
-var vg_9 = "js/scatterplot_vg.json"; 
-vegaEmbed("#scatter_plot", vg_9).then(function(result) {
-    // Access the Vega view instance as result.view
-}).catch(console.error);
-
-var vg_10 = "js/top10chart_vg.json"; 
-vegaEmbed("#top10_chart", vg_10).then(function(result) {
+var vg_8 = "js/top10chart_vg.json"; 
+vegaEmbed("#top10_chart", vg_8).then(function(result) {
     // Access the Vega view instance as result.view
 }).catch(console.error);

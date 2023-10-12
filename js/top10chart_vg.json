@@ -1,21 +1,17 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "description": "Combined chart of top 10 exports and imports with a year slider.",
-
+  "description": "Combined chart of top 10 exports and imports with a year dropdown.",
   "params": [
     {
-      "name": "yearSlider",
+      "name": "yearDropdown",
       "value": 2017,
       "bind": {
-        "input": "range",
-        "min": 2017,
-        "max": 2021,
-        "step": 1,
+        "input": "select",
+        "options": [2017, 2018, 2019, 2020, 2021],
         "name": "Year"
       }
     }
   ],
-
   "vconcat": [
     {
       "title": "Top 10 Exports",
@@ -24,7 +20,7 @@
       "data": {"url": "data/Top10Export.csv"},
       "transform": [
         {
-          "filter": "datum.Year == yearSlider"
+          "filter": "datum.Year == yearDropdown"
         }
       ],
       "encoding": {
@@ -54,7 +50,7 @@
       "data": {"url": "data/Top10Import.csv"},
       "transform": [
         {
-          "filter": "datum.Year == yearSlider"
+          "filter": "datum.Year == yearDropdown"
         }
       ],
       "encoding": {
