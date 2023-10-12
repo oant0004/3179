@@ -1,0 +1,31 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 600,
+  "height": 400,
+  "data": {
+    "url": "data/areachart_data.csv"
+  },
+  "mark": "area",
+  "encoding": {
+    "x": {
+      "field": "Year",
+      "type": "quantitative",
+      "axis": {
+        "format": "d"
+      }
+    },
+    "y": {
+      "aggregate": "sum",
+      "field": "MFN_TT",
+      "type": "quantitative"
+    },
+    "color": {
+      "field": "Continent",
+      "type": "nominal",
+      "scale": {
+        "domain": ["Africa", "Antarctica", "Asia", "Europe", "North America", "Oceania", "South America"],
+        "range": ["#280353", "#393b79", "#6b6ecf", "#9c9ede", "#637939", "#8ca252", "#b5cf6b"]
+      }
+    }
+  }
+}

@@ -13,8 +13,8 @@ vegaEmbed("#line_chart", vg_3).then(function(result) {
     // Access the Vega view instance as result.view
 }).catch(console.error);
 
-var vg_4 = "js/scatterplot_vg.json"; 
-vegaEmbed("#scatter_plot", vg_4).then(function(result) {
+var vg_4 = "js/areachart_vg.json"; 
+vegaEmbed("#area_chart", vg_4).then(function(result) {
     // Access the Vega view instance as result.view
 }).catch(console.error);
 
@@ -33,7 +33,12 @@ vegaEmbed("#bar_chart", vg_7).then(function(result) {
     // Access the Vega view instance as result.view
 }).catch(console.error);
 
-var vg_7 = "js/lolipopchart_vg.json"; 
-vegaEmbed("#lolipop_chart", vg_7).then(function(result) {
+var vg_8 = "js/lolipopchart_vg.json"; 
+vegaEmbed("#lolipop_chart", vg_8).then(function(result) {
+    // Access the Vega view instance as result.view
+}).catch(console.error);
+
+var vg_9 = "js/scatterplot_vg.json"; 
+vegaEmbed("#scatter_plot", vg_9).then(function(result) {
     // Access the Vega view instance as result.view
 }).catch(console.error);
