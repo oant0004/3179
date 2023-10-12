@@ -42,3 +42,8 @@ var vg_9 = "js/scatterplot_vg.json";
 vegaEmbed("#scatter_plot", vg_9).then(function(result) {
     // Access the Vega view instance as result.view
 }).catch(console.error);
+
+var vg_10 = "js/top10chart_vg.json"; 
+vegaEmbed("#top10_chart", vg_10).then(function(result) {
+    // Access the Vega view instance as result.view
+}).catch(console.error);

@@ -1,0 +1,96 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Combined chart of top 10 exports and imports with a year slider.",
+
+  "params": [
+    {
+      "name": "yearSlider",
+      "value": 2017,
+      "bind": {
+        "input": "range",
+        "min": 2017,
+        "max": 2021,
+        "step": 1,
+        "name": "Year"
+      }
+    }
+  ],
+
+  "vconcat": [
+    {
+      "title": "Top 10 Exports",
+      "width": 300,
+      "height": 200,
+      "data": {"url": "data/Top10Export.csv"},
+      "transform": [
+        {
+          "filter": "datum.Year == yearSlider"
+        }
+      ],
+      "encoding": {
+        "y": {
+          "field": "Country",
+          "type": "nominal"
+        },
+        "x": {
+          "field": "Export",
+          "type": "quantitative",
+          "axis": {"format": ".1s"}
+        },
+        "color": {
+          "value": "steelblue"
+        },
+        "tooltip": [
+          {"field": "Country", "type": "nominal"},
+          {"field": "Export", "type": "quantitative", "format": ".2s"}
+        ]
+      },
+      "mark": {"type": "bar", "color": "steelblue"}
+    },
+    {
+      "title": "Top 10 Imports",
+      "width": 300,
+      "height": 200,
+      "data": {"url": "data/Top10Import.csv"},
+      "transform": [
+        {
+          "filter": "datum.Year == yearSlider"
+        }
+      ],
+      "encoding": {
+        "y": {
+          "field": "Country",
+          "type": "nominal"
+        },
+        "x": {
+          "field": "Import",
+          "type": "quantitative",
+          "axis": {"format": ".1s"}
+        },
+        "color": {
+          "value": "steelblue"
+        },
+        "tooltip": [
+          {"field": "Country", "type": "nominal"},
+          {"field": "Import", "type": "quantitative", "format": ".2s"}
+        ]
+      },
+      "layer": [
+        {
+          "mark": {"type": "circle", "size": 100, "color": "steelblue"}
+        },
+        {
+          "mark": {
+            "type": "rule", 
+            "color": "steelblue"
+          },
+          "encoding": {
+            "x2": {
+              "value": 0
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

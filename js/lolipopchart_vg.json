@@ -7,19 +7,7 @@
     "encoding": {
       "y": {
         "field": "Country",
-        "type": "nominal",
-        "sort": [
-          "United States of America",
-          "China",
-          "Germany",
-          "Japan",
-          "Netherlands",
-          "France",
-          "Korea, Rep.",
-          "Italy",
-          "Canada",
-          "Mexico"
-        ]
+        "type": "nominal"
       },
       "x": {
         "field": "Import",

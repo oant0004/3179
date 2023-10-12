@@ -1,37 +1,26 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "description": "Bar chart of top 10 exports.",
-    "width": 300,
-    "height": 200,
-    "data": {"url": "data/Top10Export.csv"},
-    "encoding": {
-      "y": {
-        "field": "Country",
-        "type": "nominal",
-        "sort": [
-          "United States of America",
-          "China",
-          "Germany",
-          "United Kingdom",
-          "Hong Kong, China",
-          "Japan",
-          "Netherlands",
-          "France",
-          "Korea, Rep."
-        ]
-      },
-      "x": {
-        "field": "Export",
-        "type": "quantitative",
-        "axis": {"format": ".1s"}
-      },
-      "color": {
-        "value": "steelblue"
-      },
-      "tooltip": [
-        {"field": "Country", "type": "nominal"},
-        {"field": "Export", "type": "quantitative", "format": ".2s"}
-      ]
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Bar chart of top 10 exports.",
+  "width": 300,
+  "height": 200,
+  "data": {"url": "data/Top10Export.csv"},
+  "encoding": {
+    "y": {
+      "field": "Country",
+      "type": "nominal"
     },
-    "mark": {"type": "bar", "color": "steelblue"}
+    "x": {
+      "field": "Export",
+      "type": "quantitative",
+      "axis": {"format": ".1s"}
+    },
+    "color": {
+      "value": "steelblue"
+    },
+    "tooltip": [
+      {"field": "Country", "type": "nominal"},
+      {"field": "Export", "type": "quantitative", "format": ".2s"}
+    ]
+  },
+  "mark": {"type": "bar", "color": "steelblue"}
 }
