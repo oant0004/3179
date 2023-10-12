@@ -24,11 +24,16 @@ vegaEmbed("#parallel_plot", vg_5).then(function(result) {
 }).catch(console.error);
 
 var vg_6 = "js/doublebarchart_vg.json"; 
-vegaEmbed("#bar_chart", vg_6).then(function(result) {
+vegaEmbed("#doublebar_chart", vg_6).then(function(result) {
     // Access the Vega view instance as result.view
 }).catch(console.error);
 
-var vg_7 = "js/treemap_vg.json"; 
-vegaEmbed("#tree_map", vg_7).then(function(result) {
+var vg_7 = "js/barchart_vg.json"; 
+vegaEmbed("#bar_chart", vg_7).then(function(result) {
+    // Access the Vega view instance as result.view
+}).catch(console.error);
+
+var vg_7 = "js/lolipopchart_vg.json"; 
+vegaEmbed("#lolipop_chart", vg_7).then(function(result) {
     // Access the Vega view instance as result.view
 }).catch(console.error);

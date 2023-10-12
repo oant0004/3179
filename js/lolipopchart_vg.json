@@ -1,0 +1,53 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Lollipop chart of top 10 imports.",
+    "width": 300,
+    "height": 200,
+    "data": {"url": "data/Top10Import.csv"},
+    "encoding": {
+      "y": {
+        "field": "Country",
+        "type": "nominal",
+        "sort": [
+          "United States of America",
+          "China",
+          "Germany",
+          "Japan",
+          "Netherlands",
+          "France",
+          "Korea, Rep.",
+          "Italy",
+          "Canada",
+          "Mexico"
+        ]
+      },
+      "x": {
+        "field": "Import",
+        "type": "quantitative",
+        "axis": {"format": ".1s"}
+      },
+      "color": {
+        "value": "steelblue"
+      },
+      "tooltip": [
+        {"field": "Country", "type": "nominal"},
+        {"field": "Import", "type": "quantitative", "format": ".2s"}
+      ]
+    },
+    "layer": [
+      {
+        "mark": {"type": "circle", "size": 100, "color": "steelblue"}
+      },
+      {
+        "mark": {
+          "type": "rule", 
+          "color": "steelblue"
+        },
+        "encoding": {
+          "x2": {
+            "value": 0
+          }
+        }
+      }
+    ]
+}

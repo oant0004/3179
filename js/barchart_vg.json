@@ -1,20 +1,29 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 600,
-    "height": 300,
+    "description": "Bar chart of top 10 exports.",
+    "width": 300,
+    "height": 200,
     "data": {"url": "data/Top10Export.csv"},
     "encoding": {
       "y": {
         "field": "Country",
         "type": "nominal",
-        "axis": {"grid": false},
-        "sort": {"field": "Export", "order": "ascending"}
+        "sort": [
+          "United States of America",
+          "China",
+          "Germany",
+          "United Kingdom",
+          "Hong Kong, China",
+          "Japan",
+          "Netherlands",
+          "France",
+          "Korea, Rep."
+        ]
       },
       "x": {
         "field": "Export",
         "type": "quantitative",
-        "title": "Total Exports",
-        "axis": {"grid": false}
+        "axis": {"format": ".1s"}
       },
       "color": {
         "value": "steelblue"
@@ -24,21 +33,5 @@
         {"field": "Export", "type": "quantitative", "format": ".2s"}
       ]
     },
-    "layer": [
-      {
-        "mark": "bar"
-      },
-      {
-        "mark": {"type": "text", "align": "left", "dx": 5},
-        "encoding": {
-          "text": {"field": "Country", "type": "nominal"}
-        }
-      }
-    ],
-    "config": {
-      "view": {
-        "stroke": null
-      }
-    }
-  }
-  
+    "mark": {"type": "bar", "color": "steelblue"}
+}
