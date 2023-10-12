@@ -37,7 +37,7 @@
     "tooltip": [
       {"field": "Continent", "type": "nominal", "title": "Continent"},
       {"field": "Year", "type": "ordinal", "title": "Year"},
-      {"field": "Continent_growth", "type": "quantitative", "title": "Growth"}
+      {"field": "Continent_growth", "type": "quantitative", "title": "Growth (%)"}
     ]
   }
 }
