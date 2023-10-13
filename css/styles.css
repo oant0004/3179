@@ -65,7 +65,7 @@ b{
 }
 
 .title-sub-div-5 h2 {
-    margin-left: 250px;  /* adjust this value as needed */
+    margin-left: 230px;  /* adjust this value as needed */
 }
 
 .left-section, .right-section, .bottom-left-section, .bottom-right-section {
@@ -93,3 +93,20 @@ b{
     margin-top: 80px; /* move area chart description up */
 }
 
+.grid-4 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 1200px;
+    margin: auto;
+    margin-left: 50px;  /* Adjust this value as needed */
+}
+
+.title-sub-div-6 h2 {
+    margin-left: 180px;  /* adjust this value as needed */
+}
+
+.bottom-left-section2 {
+    position: relative;
+    top: -20px;  /* move area chart up */
+}
