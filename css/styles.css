@@ -6,6 +6,14 @@
 	font-family: 'Montserrat', sans-serif;
 }
 
+.centersection h1 {
+    margin-left: 200px;  /* adjust this value as needed */
+}
+
+.centersection {
+    margin-left: 150px;  
+}
+
 hr{
 	border-top: 1px solid rgb(32, 108, 230);
 }
@@ -108,5 +116,5 @@ b{
 
 .bottom-left-section2 {
     position: relative;
-    top: -20px;  /* move area chart up */
+    top: -160px;  /* move area chart up */
 }
