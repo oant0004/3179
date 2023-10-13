@@ -130,3 +130,11 @@ b{
     top: -120px; 
     margin-left: 750px;
 }
+
+.text-under-chart p {
+    position: relative;
+    top: -555px; 
+    margin-left: 500px;
+}
+
+
