@@ -65,13 +65,16 @@ b{
 }
 
 .bottom-left-section, .bottom-right-section {
-    margin-top: 30px; /* Add space between the scatter plot and area chart sections */
+    margin-top: 50px; /* Increase the value as needed */
 }
 
-.bottom-right-section .area_chart_container {
-    width: 100%;
-    height: 300px;
-    margin-top: 40px; 
+.bottom-left-section p {
+    margin-top: -30px; /* Add space at the top of the paragraph */
+}
+
+.bottom-right-section {
+    position: relative;
+    top: -100px;  /* this will move the entire bottom-right-section up */
 }
 
 .subtitle h2 {
@@ -80,6 +83,14 @@ b{
     text-align: left;
 }
 
+.section-three .subtitle {
+    position: relative;
+}
+
+.section-three .subtitle {
+    position: relative;
+    top: -20px;  /* this will move the entire subtitle section up */
+}
 
 
 
