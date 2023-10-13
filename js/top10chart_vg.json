@@ -32,7 +32,7 @@
         "x": {
           "field": "Export",
           "type": "quantitative",
-          "axis": {"format": ".1s"}
+          "axis": {"format": ".2s", "tickCount": 5}
         },
         "color": {
           "value": "steelblue"
@@ -63,7 +63,7 @@
         "x": {
           "field": "Import",
           "type": "quantitative",
-          "axis": {"format": ".1s"}
+          "axis": {"format": ".2s", "tickCount": 5}
         },
         "color": {
           "value": "steelblue"

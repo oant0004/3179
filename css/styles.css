@@ -89,8 +89,7 @@ b{
 
 .section-three .subtitle {
     position: relative;
-    top: -20px;  /* this will move the entire subtitle section up */
+    top: -250px;  /* this will move the entire subtitle section up */
 }
-
 
 
