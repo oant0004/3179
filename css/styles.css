@@ -29,8 +29,8 @@ b{
 .line_chart_container {
     flex: 1; /* makes them take up equal width */
     height: 400px; /* or any height you desire */
-    border: 1px solid #ccc; /* just to see the boundaries, can be removed if not needed */
     margin: 10px; /* spacing around each chart */
+    margin-top: 10px;
 }
 
 .title-sub-div-2 {
