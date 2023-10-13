@@ -3,11 +3,12 @@
 	margin: auto; 
 	padding: 50px;
 	padding-top: 30px;
-	font-family: 'Montserrat', sans-serif;
 }
 
 .centersection h1 {
-    margin-left: 200px;  /* adjust this value as needed */
+    margin-left: 55px;  /* adjust this value as needed */
+    font-size: 3.5em;
+    color:#03359a;;
 }
 
 .centersection {
@@ -116,5 +117,16 @@ b{
 
 .bottom-left-section2 {
     position: relative;
-    top: -160px;  /* move area chart up */
+    top: -120px; 
+}
+
+.text-beside-map p {
+    margin-top: -1020px; /* move area chart description up */
+    margin-left: 700px;
+}
+
+.lastsection {
+    position: relative;
+    top: -120px; 
+    margin-left: 750px;
 }
