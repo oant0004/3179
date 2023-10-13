@@ -65,7 +65,7 @@ b{
 }
 
 .title-sub-div-5 h2 {
-    margin-left: 200px;  /* adjust this value as needed */
+    margin-left: 250px;  /* adjust this value as needed */
 }
 
 .left-section, .right-section, .bottom-left-section, .bottom-right-section {
@@ -79,21 +79,17 @@ b{
     margin-bottom: 20px; 
 }
 
-.right-section p, .bottom-right-section p {
-    flex: 1;
-    margin-bottom: 20px;
-}
-
 .right-section p {
     padding-left: 200px; /* Adjust this value to move the text further to the right */
+    margin-top: 70px  /* move scatter plot description up */
 }
 
 .bottom-right-section {
     position: relative;
-    top: -20px;  /* move area chart up */
+    top: 10px;  /* move area chart up */
 }
 
 .bottom-left-section p {
-    margin-top: 50px; /* move area chart description up */
+    margin-top: 80px; /* move area chart description up */
 }
 
