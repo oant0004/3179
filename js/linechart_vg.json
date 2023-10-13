@@ -1,8 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "description": "Country growth over the years for selected countries.",
-  "width": 500,
-  "height": 300,
+  "width": 400,
+  "height": 200,
   "data": {"url": "data/Countrygrowth.csv"},
   "mark": {
     "type": "line",

@@ -1,37 +1,38 @@
-body, html {
-    height: 100%;
-    margin: 0;
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+.fixed_page{
+	width: 1100px; 
+	margin: auto; 
+	padding: 50px;
+	padding-top: 30px;
+	font-family: 'Montserrat', sans-serif;
 }
 
-.container {
+hr{
+	border-top: 1px solid rgb(32, 108, 230);
+}
+
+b{
+	color: rgb(32, 108, 230);
+}
+
+.trade_map_container{
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+.grid-2 {
     display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 100%;
-    text-align: center;
+    justify-content: space-between;
+    align-items: start; /* align the tops of the charts */
 }
 
-#global_map {
-    width: 100%; 
-    max-width: 900px; 
+.doublebar_chart_container,
+.line_chart_container {
+    flex: 1; /* makes them take up equal width */
+    height: 400px; /* or any height you desire */
+    border: 1px solid #ccc; /* just to see the boundaries, can be removed if not needed */
+    margin: 10px; /* spacing around each chart */
 }
 
-.main-title {
-    font-size: 3.8em;
-}
-
-.dark-blue {
-    color: #090968;
-}
-
-.light-blue {
-    color: #1a689f;
-}
-
-.map-description {
-    color: #002843;  
-    font-weight: bold;
+.title-sub-div-2 {
+    width: 100%; /* ensures the title takes up the full width of its container */
 }
