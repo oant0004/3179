@@ -65,7 +65,7 @@ b{
 .title-sub-div-3 h2 {
     margin-left: 50px;  /* adjust this value as needed */
     color:#03359a;
-    background-color: rgba(187, 189, 201, 0.8); /* semi-transparent white */
+       background-color: rgba(187, 189, 201, 0.8); /* semi-transparent white */
     padding: 5px;
     border-radius: 5px;
     max-width: fit-content;
