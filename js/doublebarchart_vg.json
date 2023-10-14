@@ -20,6 +20,7 @@
       "field": "Continent_growth", 
       "type": "quantitative",
       "axis": {
+        "title": "Continent Growth (%)",
         "gridColor": {
           "condition": {"test": "datum.value === 0", "value": "black"},
           "value": "#ddd"
@@ -30,8 +31,8 @@
       "field": "Continent",
       "type": "nominal",
       "scale": {
-        "domain": ["Africa", "Antarctica", "Asia", "Europe", "North America", "Oceania", "South America"],
-        "range": ["#280353", "#393b79", "#6b6ecf", "#9c9ede", "#637939", "#8ca252", "#b5cf6b"]
+        "domain": ["Africa", "Asia", "Europe", "North America", "Oceania", "South America"],
+        "range": ["#280353", "#6b6ecf", "#9c9ede", "#637939", "#8ca252", "#b5cf6b"]
       }
     },
     "column": {
