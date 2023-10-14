@@ -175,3 +175,13 @@ b{
     border-radius: 5px;
     max-width: fit-content;
 }
+
+.data-link-container {
+    margin-left: -120px;
+    margin-top: -450px;
+    color:#676767;
+}
+
+.data-source-heading {
+    margin-left: 100px
+}
